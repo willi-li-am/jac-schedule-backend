@@ -20,7 +20,6 @@ router.get("/:school/:code", (req, res) => {
     }
     else {
         let data = classData(school)
-        console.log(data)
         if (data != "DNE") {
             res.json(data[courseCode])
         }
