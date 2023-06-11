@@ -7,7 +7,9 @@ app.use(cors({
     origin: "https://jacschedule.vercel.app",
     origin: "http://localhost:3000",
     origin: "https://jacschedule.com",
-    origin: "https://cegep.app"
+    origin: "https://www.jacschedule.com",
+    origin: "https://cegep.app",
+    origin: "https://www.cegep.app"
 }))
 
 
