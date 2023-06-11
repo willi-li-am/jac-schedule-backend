@@ -4,7 +4,10 @@ const courseRouter = require("./routes/course")
 const cors = require('cors')
 
 app.use(cors({
-    origin: "https://jacschedule.vercel.app"
+    origin: "https://jacschedule.vercel.app",
+    origin: "http://localhost:3000",
+    origin: "https://jacschedule.com",
+    origin: "https://cegep.app"
 }))
 
 
