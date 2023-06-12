@@ -4,7 +4,9 @@ const courseRouter = require("./routes/course")
 const cors = require('cors')
 
 
-
+app.use(cors({
+    origin: "www.jacschedule.com"
+}))
 
 //REST API!!!
 
