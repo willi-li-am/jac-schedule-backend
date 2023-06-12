@@ -5,7 +5,7 @@ const cors = require('cors')
 
 
 app.use(cors({
-    origin: "www.jacschedule.com"
+    origin: "https://www.jacschedule.com"
 }))
 
 //REST API!!!
