@@ -4,7 +4,7 @@ const courseRouter = require("./routes/course")
 const cors = require('cors')
 
 app.use(cors({
-    origin: ["http://localhost:3000", "https://www.jacschedule.com"]
+    origin: ["http://localhost:3000", "https://jacschedule.com"]
 }))
 
 
