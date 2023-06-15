@@ -5,8 +5,8 @@ abbott = {
             "teacher": "Katherine Pagnucco",
             "title": "General Biology I",
             "rating": {
-                "rating": 4.5,
-                "reviews": 7,
+                "rating": 4.6,
+                "reviews": 10,
                 "link": "https://www.ratemyprofessors.com/professor/2496434"
             },
             "lab": {
@@ -37,8 +37,8 @@ abbott = {
             "teacher": "Katherine Pagnucco",
             "title": "General Biology I",
             "rating": {
-                "rating": 4.5,
-                "reviews": 7,
+                "rating": 4.6,
+                "reviews": 10,
                 "link": "https://www.ratemyprofessors.com/professor/2496434"
             },
             "lab": {
@@ -133,15 +133,15 @@ abbott = {
             "teacher": "Katherine Pagnucco",
             "title": "General Biology I",
             "rating": {
-                "rating": 4.5,
-                "reviews": 7,
+                "rating": 4.6,
+                "reviews": 10,
                 "link": "https://www.ratemyprofessors.com/professor/2496434"
             },
             "lab": {
                 "teacher": "Katherine Pagnucco",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 7,
+                    "rating": 4.6,
+                    "reviews": 10,
                     "link": "https://www.ratemyprofessors.com/professor/2496434"
                 }
             },
@@ -165,15 +165,15 @@ abbott = {
             "teacher": "Katherine Pagnucco",
             "title": "General Biology I",
             "rating": {
-                "rating": 4.5,
-                "reviews": 7,
+                "rating": 4.6,
+                "reviews": 10,
                 "link": "https://www.ratemyprofessors.com/professor/2496434"
             },
             "lab": {
                 "teacher": "Katherine Pagnucco",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 7,
+                    "rating": 4.6,
+                    "reviews": 10,
                     "link": "https://www.ratemyprofessors.com/professor/2496434"
                 }
             },
@@ -357,15 +357,15 @@ abbott = {
             "teacher": "Simon Daoust",
             "title": "General Biology I",
             "rating": {
-                "rating": 4.5,
-                "reviews": 13,
+                "rating": 4.6,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2499137"
             },
             "lab": {
                 "teacher": "Simon Daoust",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 13,
+                    "rating": 4.6,
+                    "reviews": 14,
                     "link": "https://www.ratemyprofessors.com/professor/2499137"
                 }
             },
@@ -389,15 +389,15 @@ abbott = {
             "teacher": "Simon Daoust",
             "title": "General Biology I",
             "rating": {
-                "rating": 4.5,
-                "reviews": 13,
+                "rating": 4.6,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2499137"
             },
             "lab": {
                 "teacher": "Simon Daoust",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 13,
+                    "rating": 4.6,
+                    "reviews": 14,
                     "link": "https://www.ratemyprofessors.com/professor/2499137"
                 }
             },
@@ -436,7 +436,7 @@ abbott = {
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "",
+                "exclusive": "Honours Science",
                 "blended": "",
                 "intensive": ""
             },
@@ -468,7 +468,7 @@ abbott = {
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "",
+                "exclusive": "Honours Science",
                 "blended": "",
                 "intensive": ""
             },
@@ -551,15 +551,15 @@ abbott = {
             "teacher": "Maryse Dagenais",
             "title": "General Biology II",
             "rating": {
-                "rating": 4.6,
-                "reviews": 4,
+                "rating": 4,
+                "reviews": 6,
                 "link": "https://www.ratemyprofessors.com/professor/2606586"
             },
             "lab": {
                 "teacher": "Maryse Dagenais",
                 "rating": {
-                    "rating": 4.6,
-                    "reviews": 4,
+                    "rating": 4,
+                    "reviews": 6,
                     "link": "https://www.ratemyprofessors.com/professor/2606586"
                 }
             },
@@ -583,15 +583,15 @@ abbott = {
             "teacher": "Maryse Dagenais",
             "title": "General Biology II",
             "rating": {
-                "rating": 4.6,
-                "reviews": 4,
+                "rating": 4,
+                "reviews": 6,
                 "link": "https://www.ratemyprofessors.com/professor/2606586"
             },
             "lab": {
                 "teacher": "Maryse Dagenais",
                 "rating": {
-                    "rating": 4.6,
-                    "reviews": 4,
+                    "rating": 4,
+                    "reviews": 6,
                     "link": "https://www.ratemyprofessors.com/professor/2606586"
                 }
             },
@@ -731,15 +731,15 @@ abbott = {
             "teacher": "Edward Hudson",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 4.5,
-                "reviews": 12,
+                "rating": 4.6,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/1857904"
             },
             "lab": {
                 "teacher": "Edward Hudson",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 12,
+                    "rating": 4.6,
+                    "reviews": 13,
                     "link": "https://www.ratemyprofessors.com/professor/1857904"
                 }
             },
@@ -763,15 +763,15 @@ abbott = {
             "teacher": "Edward Hudson",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 4.5,
-                "reviews": 12,
+                "rating": 4.6,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/1857904"
             },
             "lab": {
                 "teacher": "Edward Hudson",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 12,
+                    "rating": 4.6,
+                    "reviews": 13,
                     "link": "https://www.ratemyprofessors.com/professor/1857904"
                 }
             },
@@ -808,10 +808,10 @@ abbott = {
             },
             "schedule": {
                 "M": "0830-1030",
-                "T": "1300-1430",
+                "T": "1000-1130",
                 "W": "",
                 "R": "",
-                "F": "1300-1430"
+                "F": "1000-1130"
             }
         },
         {
@@ -832,10 +832,10 @@ abbott = {
             },
             "schedule": {
                 "M": "1030-1230",
-                "T": "1300-1430",
+                "T": "1000-1130",
                 "W": "",
                 "R": "",
-                "F": "1300-1430"
+                "F": "1000-1130"
             }
         },
         {
@@ -907,15 +907,15 @@ abbott = {
             "teacher": "Tian-Yun Wang",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 4.1,
-                "reviews": 11,
+                "rating": 3.9,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498170"
             },
             "lab": {
                 "teacher": "Tian-Yun Wang",
                 "rating": {
-                    "rating": 4.1,
-                    "reviews": 11,
+                    "rating": 3.9,
+                    "reviews": 12,
                     "link": "https://www.ratemyprofessors.com/professor/2498170"
                 }
             },
@@ -939,15 +939,15 @@ abbott = {
             "teacher": "Tian-Yun Wang",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 4.1,
-                "reviews": 11,
+                "rating": 3.9,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498170"
             },
             "lab": {
                 "teacher": "Tian-Yun Wang",
                 "rating": {
-                    "rating": 4.1,
-                    "reviews": 11,
+                    "rating": 3.9,
+                    "reviews": 12,
                     "link": "https://www.ratemyprofessors.com/professor/2498170"
                 }
             },
@@ -1019,15 +1019,15 @@ abbott = {
             "teacher": "Michael Lautman",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 2.7,
-                "reviews": 16,
+                "rating": 2.9,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2497900"
             },
             "lab": {
                 "teacher": "Michael Lautman",
                 "rating": {
-                    "rating": 2.7,
-                    "reviews": 16,
+                    "rating": 2.9,
+                    "reviews": 17,
                     "link": "https://www.ratemyprofessors.com/professor/2497900"
                 }
             },
@@ -1051,15 +1051,15 @@ abbott = {
             "teacher": "Michael Lautman",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 2.7,
-                "reviews": 16,
+                "rating": 2.9,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2497900"
             },
             "lab": {
                 "teacher": "Michael Lautman",
                 "rating": {
-                    "rating": 2.7,
-                    "reviews": 16,
+                    "rating": 2.9,
+                    "reviews": 17,
                     "link": "https://www.ratemyprofessors.com/professor/2497900"
                 }
             },
@@ -1147,15 +1147,15 @@ abbott = {
             "teacher": "Tian-Yun Wang",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 4.1,
-                "reviews": 11,
+                "rating": 3.9,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498170"
             },
             "lab": {
                 "teacher": "Tian-Yun Wang",
                 "rating": {
-                    "rating": 4.1,
-                    "reviews": 11,
+                    "rating": 3.9,
+                    "reviews": 12,
                     "link": "https://www.ratemyprofessors.com/professor/2498170"
                 }
             },
@@ -1179,15 +1179,15 @@ abbott = {
             "teacher": "Tian-Yun Wang",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 4.1,
-                "reviews": 11,
+                "rating": 3.9,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498170"
             },
             "lab": {
                 "teacher": "Tian-Yun Wang",
                 "rating": {
-                    "rating": 4.1,
-                    "reviews": 11,
+                    "rating": 3.9,
+                    "reviews": 12,
                     "link": "https://www.ratemyprofessors.com/professor/2498170"
                 }
             },
@@ -1323,15 +1323,15 @@ abbott = {
             "teacher": "Michael Lautman",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 2.7,
-                "reviews": 16,
+                "rating": 2.9,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2497900"
             },
             "lab": {
                 "teacher": "Michael Lautman",
                 "rating": {
-                    "rating": 2.7,
-                    "reviews": 16,
+                    "rating": 2.9,
+                    "reviews": 17,
                     "link": "https://www.ratemyprofessors.com/professor/2497900"
                 }
             },
@@ -1355,15 +1355,15 @@ abbott = {
             "teacher": "Michael Lautman",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 2.7,
-                "reviews": 16,
+                "rating": 2.9,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2497900"
             },
             "lab": {
                 "teacher": "Michael Lautman",
                 "rating": {
-                    "rating": 2.7,
-                    "reviews": 16,
+                    "rating": 2.9,
+                    "reviews": 17,
                     "link": "https://www.ratemyprofessors.com/professor/2497900"
                 }
             },
@@ -1400,10 +1400,10 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1000-1130",
+                "T": "1300-1430",
                 "W": "0800-1000",
                 "R": "",
-                "F": "1000-1130"
+                "F": "1300-1430"
             }
         },
         {
@@ -1424,10 +1424,10 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1000-1130",
+                "T": "1300-1430",
                 "W": "1000-1200",
                 "R": "",
-                "F": "1000-1130"
+                "F": "1300-1430"
             }
         },
         {
@@ -1499,15 +1499,15 @@ abbott = {
             "teacher": "Michal Goren",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 3.9,
-                "reviews": 16,
+                "rating": 4,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/1703283"
             },
             "lab": {
                 "teacher": "Michal Goren",
                 "rating": {
-                    "rating": 3.9,
-                    "reviews": 16,
+                    "rating": 4,
+                    "reviews": 17,
                     "link": "https://www.ratemyprofessors.com/professor/1703283"
                 }
             },
@@ -1531,15 +1531,15 @@ abbott = {
             "teacher": "Michal Goren",
             "title": "Chemistry of Solutions",
             "rating": {
-                "rating": 3.9,
-                "reviews": 16,
+                "rating": 4,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/1703283"
             },
             "lab": {
                 "teacher": "Michal Goren",
                 "rating": {
-                    "rating": 3.9,
-                    "reviews": 16,
+                    "rating": 4,
+                    "reviews": 17,
                     "link": "https://www.ratemyprofessors.com/professor/1703283"
                 }
             },
@@ -1564,14 +1564,14 @@ abbott = {
             "title": "Chemistry of Solutions",
             "rating": {
                 "rating": 3.1,
-                "reviews": 28,
+                "reviews": 29,
                 "link": "https://www.ratemyprofessors.com/professor/2497914"
             },
             "lab": {
                 "teacher": "David Fenwick",
                 "rating": {
                     "rating": 3.1,
-                    "reviews": 28,
+                    "reviews": 29,
                     "link": "https://www.ratemyprofessors.com/professor/2497914"
                 }
             },
@@ -1596,14 +1596,14 @@ abbott = {
             "title": "Chemistry of Solutions",
             "rating": {
                 "rating": 3.1,
-                "reviews": 28,
+                "reviews": 29,
                 "link": "https://www.ratemyprofessors.com/professor/2497914"
             },
             "lab": {
                 "teacher": "David Fenwick",
                 "rating": {
                     "rating": 3.1,
-                    "reviews": 28,
+                    "reviews": 29,
                     "link": "https://www.ratemyprofessors.com/professor/2497914"
                 }
             },
@@ -1628,14 +1628,14 @@ abbott = {
             "title": "Chemistry of Solutions",
             "rating": {
                 "rating": 3.1,
-                "reviews": 28,
+                "reviews": 29,
                 "link": "https://www.ratemyprofessors.com/professor/2497914"
             },
             "lab": {
                 "teacher": "David Fenwick",
                 "rating": {
                     "rating": 3.1,
-                    "reviews": 28,
+                    "reviews": 29,
                     "link": "https://www.ratemyprofessors.com/professor/2497914"
                 }
             },
@@ -1660,14 +1660,14 @@ abbott = {
             "title": "Chemistry of Solutions",
             "rating": {
                 "rating": 3.1,
-                "reviews": 28,
+                "reviews": 29,
                 "link": "https://www.ratemyprofessors.com/professor/2497914"
             },
             "lab": {
                 "teacher": "David Fenwick",
                 "rating": {
                     "rating": 3.1,
-                    "reviews": 28,
+                    "reviews": 29,
                     "link": "https://www.ratemyprofessors.com/professor/2497914"
                 }
             },
@@ -1693,15 +1693,15 @@ abbott = {
             "teacher": "Michal Goren",
             "title": "General Chemistry",
             "rating": {
-                "rating": 3.9,
-                "reviews": 16,
+                "rating": 4,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/1703283"
             },
             "lab": {
                 "teacher": "Michal Goren",
                 "rating": {
-                    "rating": 3.9,
-                    "reviews": 16,
+                    "rating": 4,
+                    "reviews": 17,
                     "link": "https://www.ratemyprofessors.com/professor/1703283"
                 }
             },
@@ -1725,15 +1725,15 @@ abbott = {
             "teacher": "Michal Goren",
             "title": "General Chemistry",
             "rating": {
-                "rating": 3.9,
-                "reviews": 16,
+                "rating": 4,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/1703283"
             },
             "lab": {
                 "teacher": "Michal Goren",
                 "rating": {
-                    "rating": 3.9,
-                    "reviews": 16,
+                    "rating": 4,
+                    "reviews": 17,
                     "link": "https://www.ratemyprofessors.com/professor/1703283"
                 }
             },
@@ -1822,14 +1822,14 @@ abbott = {
             "title": "General Chemistry",
             "rating": {
                 "rating": 5,
-                "reviews": 14,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2497876"
             },
             "lab": {
                 "teacher": "Sean Hughes",
                 "rating": {
                     "rating": 5,
-                    "reviews": 14,
+                    "reviews": 15,
                     "link": "https://www.ratemyprofessors.com/professor/2497876"
                 }
             },
@@ -1854,14 +1854,14 @@ abbott = {
             "title": "General Chemistry",
             "rating": {
                 "rating": 5,
-                "reviews": 14,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2497876"
             },
             "lab": {
                 "teacher": "Sean Hughes",
                 "rating": {
                     "rating": 5,
-                    "reviews": 14,
+                    "reviews": 15,
                     "link": "https://www.ratemyprofessors.com/professor/2497876"
                 }
             },
@@ -2113,15 +2113,15 @@ abbott = {
             "teacher": "Edward Hudson",
             "title": "The Chemistry of The Environment",
             "rating": {
-                "rating": 4.5,
-                "reviews": 12,
+                "rating": 4.6,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/1857904"
             },
             "lab": {
                 "teacher": "Edward Hudson",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 12,
+                    "rating": 4.6,
+                    "reviews": 13,
                     "link": "https://www.ratemyprofessors.com/professor/1857904"
                 }
             },
@@ -2145,15 +2145,15 @@ abbott = {
             "teacher": "Edward Hudson",
             "title": "The Chemistry of The Environment",
             "rating": {
-                "rating": 4.5,
-                "reviews": 12,
+                "rating": 4.6,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/1857904"
             },
             "lab": {
                 "teacher": "Edward Hudson",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 12,
+                    "rating": 4.6,
+                    "reviews": 13,
                     "link": "https://www.ratemyprofessors.com/professor/1857904"
                 }
             },
@@ -2250,7 +2250,7 @@ abbott = {
                 "rating": "DNE"
             },
             "details": {
-                "fee": "",
+                "fee": 18,
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
@@ -2274,7 +2274,7 @@ abbott = {
                 "rating": "DNE"
             },
             "details": {
-                "fee": "",
+                "fee": 18,
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
@@ -2444,7 +2444,7 @@ abbott = {
             "title": "Calculus I",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2554464"
             },
             "lab": {},
@@ -2468,8 +2468,8 @@ abbott = {
             "teacher": "Antoine Herlin",
             "title": "Calculus I",
             "rating": {
-                "rating": 3.3,
-                "reviews": 19,
+                "rating": 3.5,
+                "reviews": 20,
                 "link": "https://www.ratemyprofessors.com/professor/2497906"
             },
             "lab": {},
@@ -2493,8 +2493,8 @@ abbott = {
             "teacher": "Antoine Herlin",
             "title": "Calculus I",
             "rating": {
-                "rating": 3.3,
-                "reviews": 19,
+                "rating": 3.5,
+                "reviews": 20,
                 "link": "https://www.ratemyprofessors.com/professor/2497906"
             },
             "lab": {},
@@ -2518,8 +2518,8 @@ abbott = {
             "teacher": "Abdulrahman Karouma",
             "title": "Calculus I",
             "rating": {
-                "rating": 3.6,
-                "reviews": 7,
+                "rating": 3.9,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2499598"
             },
             "lab": {},
@@ -2543,8 +2543,8 @@ abbott = {
             "teacher": "Abdulrahman Karouma",
             "title": "Calculus I",
             "rating": {
-                "rating": 3.6,
-                "reviews": 7,
+                "rating": 3.9,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2499598"
             },
             "lab": {},
@@ -2911,7 +2911,7 @@ abbott = {
             "title": "Calculus I",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2554464"
             },
             "lab": {},
@@ -2936,7 +2936,7 @@ abbott = {
             "title": "Calculus I",
             "rating": {
                 "rating": 3.8,
-                "reviews": 31,
+                "reviews": 33,
                 "link": "https://www.ratemyprofessors.com/professor/2098779"
             },
             "lab": {},
@@ -3083,8 +3083,8 @@ abbott = {
             "teacher": "Jordan Hill",
             "title": "Calculus II",
             "rating": {
-                "rating": 2.9,
-                "reviews": 16,
+                "rating": 3.1,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1750842"
             },
             "lab": {},
@@ -3109,7 +3109,7 @@ abbott = {
             "title": "Calculus II",
             "rating": {
                 "rating": 4.3,
-                "reviews": 14,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/1877082"
             },
             "lab": {},
@@ -3133,7 +3133,7 @@ abbott = {
             "teacher": "Richard Squire",
             "title": "Calculus II",
             "rating": {
-                "rating": 1.8,
+                "rating": 1.6,
                 "reviews": 24,
                 "link": "https://www.ratemyprofessors.com/professor/1156686"
             },
@@ -3158,7 +3158,7 @@ abbott = {
             "teacher": "Richard Squire",
             "title": "Calculus II",
             "rating": {
-                "rating": 1.8,
+                "rating": 1.6,
                 "reviews": 24,
                 "link": "https://www.ratemyprofessors.com/professor/1156686"
             },
@@ -3327,8 +3327,8 @@ abbott = {
             "teacher": "Jordan Hill",
             "title": "Linear Algebra I",
             "rating": {
-                "rating": 2.9,
-                "reviews": 16,
+                "rating": 3.1,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1750842"
             },
             "lab": {},
@@ -3352,8 +3352,8 @@ abbott = {
             "teacher": "Jordan Hill",
             "title": "Linear Algebra I",
             "rating": {
-                "rating": 2.9,
-                "reviews": 16,
+                "rating": 3.1,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1750842"
             },
             "lab": {},
@@ -3477,8 +3477,8 @@ abbott = {
             "teacher": "Luiz Takei",
             "title": "Linear Algebra I",
             "rating": {
-                "rating": 4.6,
-                "reviews": 14,
+                "rating": 4.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2498642"
             },
             "lab": {},
@@ -3502,8 +3502,8 @@ abbott = {
             "teacher": "Luiz Takei",
             "title": "Linear Algebra I",
             "rating": {
-                "rating": 4.6,
-                "reviews": 14,
+                "rating": 4.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2498642"
             },
             "lab": {},
@@ -3628,7 +3628,7 @@ abbott = {
             "title": "Linear Algebra I",
             "rating": {
                 "rating": 3.8,
-                "reviews": 31,
+                "reviews": 33,
                 "link": "https://www.ratemyprofessors.com/professor/2098779"
             },
             "lab": {},
@@ -3653,7 +3653,7 @@ abbott = {
             "title": "Linear Algebra I",
             "rating": {
                 "rating": 3.8,
-                "reviews": 31,
+                "reviews": 33,
                 "link": "https://www.ratemyprofessors.com/professor/2098779"
             },
             "lab": {},
@@ -3702,8 +3702,8 @@ abbott = {
             "teacher": "Luiz Takei",
             "title": "Statistics",
             "rating": {
-                "rating": 4.6,
-                "reviews": 14,
+                "rating": 4.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2498642"
             },
             "lab": {},
@@ -3755,14 +3755,14 @@ abbott = {
             "title": "Mechanics",
             "rating": {
                 "rating": 2.8,
-                "reviews": 18,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498435"
             },
             "lab": {
                 "teacher": "Kieran Hackett",
                 "rating": {
                     "rating": 2.8,
-                    "reviews": 18,
+                    "reviews": 21,
                     "link": "https://www.ratemyprofessors.com/professor/2498435"
                 }
             },
@@ -3787,14 +3787,14 @@ abbott = {
             "title": "Mechanics",
             "rating": {
                 "rating": 2.8,
-                "reviews": 18,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498435"
             },
             "lab": {
                 "teacher": "Kieran Hackett",
                 "rating": {
                     "rating": 2.8,
-                    "reviews": 18,
+                    "reviews": 21,
                     "link": "https://www.ratemyprofessors.com/professor/2498435"
                 }
             },
@@ -3879,19 +3879,19 @@ abbott = {
         },
         {
             "section": "00005",
-            "teacher": "Maria Mastorakos",
+            "teacher": "Omar Melhem",
             "title": "Mechanics",
             "rating": {
-                "rating": 4.2,
-                "reviews": 5,
-                "link": "https://www.ratemyprofessors.com/professor/2498552"
+                "rating": 3.4,
+                "reviews": 13,
+                "link": "https://www.ratemyprofessors.com/professor/2773125"
             },
             "lab": {
-                "teacher": "Maria Mastorakos",
+                "teacher": "Omar Melhem",
                 "rating": {
-                    "rating": 4.2,
-                    "reviews": 5,
-                    "link": "https://www.ratemyprofessors.com/professor/2498552"
+                    "rating": 3.4,
+                    "reviews": 13,
+                    "link": "https://www.ratemyprofessors.com/professor/2773125"
                 }
             },
             "details": {
@@ -3903,27 +3903,27 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1300-1430",
+                "T": "1430-1600",
                 "W": "0830-1030",
-                "R": "1300-1430",
+                "R": "1430-1600",
                 "F": ""
             }
         },
         {
             "section": "00006",
-            "teacher": "Maria Mastorakos",
+            "teacher": "Omar Melhem",
             "title": "Mechanics",
             "rating": {
-                "rating": 4.2,
-                "reviews": 5,
-                "link": "https://www.ratemyprofessors.com/professor/2498552"
+                "rating": 3.4,
+                "reviews": 13,
+                "link": "https://www.ratemyprofessors.com/professor/2773125"
             },
             "lab": {
-                "teacher": "Maria Mastorakos",
+                "teacher": "Omar Melhem",
                 "rating": {
-                    "rating": 4.2,
-                    "reviews": 5,
-                    "link": "https://www.ratemyprofessors.com/professor/2498552"
+                    "rating": 3.4,
+                    "reviews": 13,
+                    "link": "https://www.ratemyprofessors.com/professor/2773125"
                 }
             },
             "details": {
@@ -3935,9 +3935,9 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1300-1430",
+                "T": "1430-1600",
                 "W": "1030-1230",
-                "R": "1300-1430",
+                "R": "1430-1600",
                 "F": ""
             }
         },
@@ -3946,15 +3946,15 @@ abbott = {
             "teacher": "Hubert Camirand",
             "title": "Mechanics",
             "rating": {
-                "rating": 3.6,
-                "reviews": 16,
+                "rating": 3.9,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2498153"
             },
             "lab": {
                 "teacher": "Hubert Camirand",
                 "rating": {
-                    "rating": 3.6,
-                    "reviews": 16,
+                    "rating": 3.9,
+                    "reviews": 18,
                     "link": "https://www.ratemyprofessors.com/professor/2498153"
                 }
             },
@@ -3978,15 +3978,15 @@ abbott = {
             "teacher": "Hubert Camirand",
             "title": "Mechanics",
             "rating": {
-                "rating": 3.6,
-                "reviews": 16,
+                "rating": 3.9,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2498153"
             },
             "lab": {
                 "teacher": "Hubert Camirand",
                 "rating": {
-                    "rating": 3.6,
-                    "reviews": 16,
+                    "rating": 3.9,
+                    "reviews": 18,
                     "link": "https://www.ratemyprofessors.com/professor/2498153"
                 }
             },
@@ -4138,15 +4138,15 @@ abbott = {
             "teacher": "Nanouk Pare",
             "title": "Mechanics",
             "rating": {
-                "rating": 4.5,
-                "reviews": 11,
+                "rating": 4.6,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2492156"
             },
             "lab": {
                 "teacher": "Nanouk Pare",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 11,
+                    "rating": 4.6,
+                    "reviews": 12,
                     "link": "https://www.ratemyprofessors.com/professor/2492156"
                 }
             },
@@ -4170,15 +4170,15 @@ abbott = {
             "teacher": "Nanouk Pare",
             "title": "Mechanics",
             "rating": {
-                "rating": 4.5,
-                "reviews": 11,
+                "rating": 4.6,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2492156"
             },
             "lab": {
                 "teacher": "Nanouk Pare",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 11,
+                    "rating": 4.6,
+                    "reviews": 12,
                     "link": "https://www.ratemyprofessors.com/professor/2492156"
                 }
             },
@@ -4263,11 +4263,11 @@ abbott = {
         },
         {
             "section": "00017",
-            "teacher": "Omar Melhem",
+            "teacher": "To Be Announced",
             "title": "Mechanics",
             "rating": "DNE",
             "lab": {
-                "teacher": "Omar Melhem",
+                "teacher": "To Be Announced",
                 "rating": "DNE"
             },
             "details": {
@@ -4287,11 +4287,11 @@ abbott = {
         },
         {
             "section": "00018",
-            "teacher": "Omar Melhem",
+            "teacher": "To Be Announced",
             "title": "Mechanics",
             "rating": "DNE",
             "lab": {
-                "teacher": "Omar Melhem",
+                "teacher": "To Be Announced",
                 "rating": "DNE"
             },
             "details": {
@@ -4335,9 +4335,9 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1130-1300",
+                "T": "1000-1130",
                 "W": "",
-                "R": "1130-1300",
+                "R": "1000-1130",
                 "F": "0830-1030"
             }
         },
@@ -4367,15 +4367,15 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1130-1300",
+                "T": "1000-1130",
                 "W": "",
-                "R": "1130-1300",
+                "R": "1000-1130",
                 "F": "1030-1230"
             }
         },
         {
             "section": "00021",
-            "teacher": "Omar Melhem",
+            "teacher": "To Be Announced",
             "title": "Mechanics",
             "rating": "DNE",
             "lab": {
@@ -4403,7 +4403,7 @@ abbott = {
         },
         {
             "section": "00022",
-            "teacher": "Omar Melhem",
+            "teacher": "To Be Announced",
             "title": "Mechanics",
             "rating": "DNE",
             "lab": {
@@ -4454,9 +4454,9 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "0830-1030",
+                "M": "",
                 "T": "0830-1000",
-                "W": "",
+                "W": "0830-1030",
                 "R": "0830-1000",
                 "F": ""
             }
@@ -4486,9 +4486,9 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "1030-1230",
+                "M": "",
                 "T": "0830-1000",
-                "W": "",
+                "W": "1030-1230",
                 "R": "0830-1000",
                 "F": ""
             }
@@ -4546,15 +4546,15 @@ abbott = {
             "teacher": "Nanouk Pare",
             "title": "Mechanics",
             "rating": {
-                "rating": 4.5,
-                "reviews": 11,
+                "rating": 4.6,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2492156"
             },
             "lab": {
                 "teacher": "Nanouk Pare",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 11,
+                    "rating": 4.6,
+                    "reviews": 12,
                     "link": "https://www.ratemyprofessors.com/professor/2492156"
                 }
             },
@@ -4578,15 +4578,15 @@ abbott = {
             "teacher": "Nanouk Pare",
             "title": "Mechanics",
             "rating": {
-                "rating": 4.5,
-                "reviews": 11,
+                "rating": 4.6,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2492156"
             },
             "lab": {
                 "teacher": "Nanouk Pare",
                 "rating": {
-                    "rating": 4.5,
-                    "reviews": 11,
+                    "rating": 4.6,
+                    "reviews": 12,
                     "link": "https://www.ratemyprofessors.com/professor/2492156"
                 }
             },
@@ -4674,15 +4674,15 @@ abbott = {
             "teacher": "Bruce Tracy",
             "title": "Mechanics",
             "rating": {
-                "rating": 2.6,
-                "reviews": 10,
+                "rating": 2.5,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2496435"
             },
             "lab": {
                 "teacher": "Bruce Tracy",
                 "rating": {
-                    "rating": 2.6,
-                    "reviews": 10,
+                    "rating": 2.5,
+                    "reviews": 11,
                     "link": "https://www.ratemyprofessors.com/professor/2496435"
                 }
             },
@@ -4706,15 +4706,15 @@ abbott = {
             "teacher": "Bruce Tracy",
             "title": "Mechanics",
             "rating": {
-                "rating": 2.6,
-                "reviews": 10,
+                "rating": 2.5,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2496435"
             },
             "lab": {
                 "teacher": "Bruce Tracy",
                 "rating": {
-                    "rating": 2.6,
-                    "reviews": 10,
+                    "rating": 2.5,
+                    "reviews": 11,
                     "link": "https://www.ratemyprofessors.com/professor/2496435"
                 }
             },
@@ -4804,15 +4804,15 @@ abbott = {
             "teacher": "Bruce Tracy",
             "title": "Electricity and Magnetism",
             "rating": {
-                "rating": 2.6,
-                "reviews": 10,
+                "rating": 2.5,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2496435"
             },
             "lab": {
                 "teacher": "Bruce Tracy",
                 "rating": {
-                    "rating": 2.6,
-                    "reviews": 10,
+                    "rating": 2.5,
+                    "reviews": 11,
                     "link": "https://www.ratemyprofessors.com/professor/2496435"
                 }
             },
@@ -4836,15 +4836,15 @@ abbott = {
             "teacher": "Bruce Tracy",
             "title": "Electricity and Magnetism",
             "rating": {
-                "rating": 2.6,
-                "reviews": 10,
+                "rating": 2.5,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2496435"
             },
             "lab": {
                 "teacher": "Bruce Tracy",
                 "rating": {
-                    "rating": 2.6,
-                    "reviews": 10,
+                    "rating": 2.5,
+                    "reviews": 11,
                     "link": "https://www.ratemyprofessors.com/professor/2496435"
                 }
             },
@@ -4917,14 +4917,14 @@ abbott = {
             "title": "Electricity and Magnetism",
             "rating": {
                 "rating": 2.8,
-                "reviews": 18,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498435"
             },
             "lab": {
                 "teacher": "Kieran Hackett",
                 "rating": {
                     "rating": 2.8,
-                    "reviews": 18,
+                    "reviews": 21,
                     "link": "https://www.ratemyprofessors.com/professor/2498435"
                 }
             },
@@ -4949,14 +4949,14 @@ abbott = {
             "title": "Electricity and Magnetism",
             "rating": {
                 "rating": 2.8,
-                "reviews": 18,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498435"
             },
             "lab": {
                 "teacher": "Kieran Hackett",
                 "rating": {
                     "rating": 2.8,
-                    "reviews": 18,
+                    "reviews": 21,
                     "link": "https://www.ratemyprofessors.com/professor/2498435"
                 }
             },
@@ -5158,15 +5158,15 @@ abbott = {
             "teacher": "Hubert Camirand",
             "title": "Waves, Optics and Modern Physics",
             "rating": {
-                "rating": 3.6,
-                "reviews": 16,
+                "rating": 3.9,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2498153"
             },
             "lab": {
                 "teacher": "Hubert Camirand",
                 "rating": {
-                    "rating": 3.6,
-                    "reviews": 16,
+                    "rating": 3.9,
+                    "reviews": 18,
                     "link": "https://www.ratemyprofessors.com/professor/2498153"
                 }
             },
@@ -5190,15 +5190,15 @@ abbott = {
             "teacher": "Hubert Camirand",
             "title": "Waves, Optics and Modern Physics",
             "rating": {
-                "rating": 3.6,
-                "reviews": 16,
+                "rating": 3.9,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2498153"
             },
             "lab": {
                 "teacher": "Hubert Camirand",
                 "rating": {
-                    "rating": 3.6,
-                    "reviews": 16,
+                    "rating": 3.9,
+                    "reviews": 18,
                     "link": "https://www.ratemyprofessors.com/professor/2498153"
                 }
             },
@@ -5235,9 +5235,9 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1130-1300",
+                "T": "1300-1430",
                 "W": "",
-                "R": "1130-1300",
+                "R": "1300-1430",
                 "F": "0830-1030"
             }
         },
@@ -5259,9 +5259,9 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1130-1300",
+                "T": "1300-1430",
                 "W": "",
-                "R": "1130-1300",
+                "R": "1300-1430",
                 "F": "1030-1230"
             }
         },
@@ -5291,9 +5291,9 @@ abbott = {
             },
             "schedule": {
                 "M": "0830-1030",
-                "T": "1000-1130",
+                "T": "0830-1000",
                 "W": "",
-                "R": "1000-1130",
+                "R": "0830-1000",
                 "F": ""
             }
         },
@@ -5323,9 +5323,9 @@ abbott = {
             },
             "schedule": {
                 "M": "1030-1230",
-                "T": "1000-1130",
+                "T": "0830-1000",
                 "W": "",
-                "R": "1000-1130",
+                "R": "0830-1000",
                 "F": ""
             }
         },
@@ -5710,8 +5710,8 @@ abbott = {
             "teacher": "Sarah Bean",
             "title": "Introduction to Anthropology",
             "rating": {
-                "rating": 2.8,
-                "reviews": 3,
+                "rating": 3,
+                "reviews": 4,
                 "link": "https://www.ratemyprofessors.com/professor/1871128"
             },
             "lab": {},
@@ -5735,8 +5735,8 @@ abbott = {
             "teacher": "Sarah Bean",
             "title": "Introduction to Anthropology",
             "rating": {
-                "rating": 2.8,
-                "reviews": 3,
+                "rating": 3,
+                "reviews": 4,
                 "link": "https://www.ratemyprofessors.com/professor/1871128"
             },
             "lab": {},
@@ -5761,7 +5761,155 @@ abbott = {
             "title": "Introduction to Anthropology",
             "rating": {
                 "rating": 5,
-                "reviews": 13,
+                "reviews": 14,
+                "link": "https://www.ratemyprofessors.com/professor/2385814"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1300-1430",
+                "W": "",
+                "R": "1300-1430",
+                "F": ""
+            }
+        },
+        {
+            "section": "00006",
+            "teacher": "To Be Announced",
+            "title": "Introduction to Anthropology",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1430-1600",
+                "W": "",
+                "R": "1430-1600",
+                "F": ""
+            }
+        }
+    ],
+    "381-100-AB": [
+        {
+            "section": "00001",
+            "teacher": "Robbyn Seller",
+            "title": "Introduction to Anthropology",
+            "rating": {
+                "rating": 2.6,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/1871127"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1000-1130",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "Robbyn Seller",
+            "title": "Introduction to Anthropology",
+            "rating": {
+                "rating": 2.6,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/1871127"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1300-1430",
+                "T": "",
+                "W": "1300-1430",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00003",
+            "teacher": "Sarah Bean",
+            "title": "Introduction to Anthropology",
+            "rating": {
+                "rating": 3,
+                "reviews": 4,
+                "link": "https://www.ratemyprofessors.com/professor/1871128"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "",
+                "R": "1000-1130",
+                "F": ""
+            }
+        },
+        {
+            "section": "00004",
+            "teacher": "Sarah Bean",
+            "title": "Introduction to Anthropology",
+            "rating": {
+                "rating": 3,
+                "reviews": 4,
+                "link": "https://www.ratemyprofessors.com/professor/1871128"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1130-1300",
+                "W": "",
+                "R": "1130-1300",
+                "F": ""
+            }
+        },
+        {
+            "section": "00005",
+            "teacher": "Dario Guiducci",
+            "title": "Introduction to Anthropology",
+            "rating": {
+                "rating": 5,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2385814"
             },
             "lab": {},
@@ -5808,8 +5956,8 @@ abbott = {
             "teacher": "Sarah Bean",
             "title": "Human Evolution",
             "rating": {
-                "rating": 2.8,
-                "reviews": 3,
+                "rating": 3,
+                "reviews": 4,
                 "link": "https://www.ratemyprofessors.com/professor/1871128"
             },
             "lab": {},
@@ -5954,6 +6102,213 @@ abbott = {
             }
         }
     ],
+    "401-101-AB": [
+        {
+            "section": "00001",
+            "teacher": "Laura Ricotta",
+            "title": "Introduction to Business",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": "1000-1130"
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "James Kane",
+            "title": "Introduction to Business",
+            "rating": {
+                "rating": 4,
+                "reviews": 3,
+                "link": "https://www.ratemyprofessors.com/professor/2694109"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1300-1430",
+                "W": "",
+                "R": "1300-1430",
+                "F": ""
+            }
+        },
+        {
+            "section": "00003",
+            "teacher": "Sonia Savvidis",
+            "title": "Introduction to Business",
+            "rating": {
+                "rating": 4.8,
+                "reviews": 6,
+                "link": "https://www.ratemyprofessors.com/professor/1824847"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "",
+                "R": "1000-1130",
+                "F": ""
+            }
+        },
+        {
+            "section": "00004",
+            "teacher": "Gordon Spicer",
+            "title": "Introduction to Business",
+            "rating": {
+                "rating": 3.8,
+                "reviews": 13,
+                "link": "https://www.ratemyprofessors.com/professor/1858700"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "0830-1000",
+                "T": "",
+                "W": "0830-1000",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00005",
+            "teacher": "Herman Tumurcuoglu",
+            "title": "Introduction to Business",
+            "rating": {
+                "rating": 4.1,
+                "reviews": 10,
+                "link": "https://www.ratemyprofessors.com/professor/2501435"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1000-1130",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00006",
+            "teacher": "Tara Walker",
+            "title": "Introduction to Business",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1130-1300",
+                "R": "",
+                "F": "1130-1300"
+            }
+        },
+        {
+            "section": "00007",
+            "teacher": "Tara Walker",
+            "title": "Introduction to Business",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1130-1300",
+                "W": "",
+                "R": "1130-1300",
+                "F": ""
+            }
+        },
+        {
+            "section": "00008",
+            "teacher": "Edward Lyon",
+            "title": "Introduction to Business",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1430-1600",
+                "T": "",
+                "W": "1430-1600",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00009",
+            "teacher": "Sorin Voinea",
+            "title": "Introduction to Business",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1600-1730",
+                "T": "",
+                "W": "1600-1730",
+                "R": "",
+                "F": ""
+            }
+        }
+    ],
     "401-100-AB": [
         {
             "section": "00001",
@@ -6056,8 +6411,8 @@ abbott = {
             "teacher": "Herman Tumurcuoglu",
             "title": "Introduction to Business",
             "rating": {
-                "rating": 3.9,
-                "reviews": 9,
+                "rating": 4.1,
+                "reviews": 10,
                 "link": "https://www.ratemyprofessors.com/professor/2501435"
             },
             "lab": {},
@@ -6122,11 +6477,7 @@ abbott = {
             "section": "00008",
             "teacher": "Edward Lyon",
             "title": "Introduction to Business",
-            "rating": {
-                "rating": 5,
-                "reviews": 6,
-                "link": "https://www.ratemyprofessors.com/professor/2755852"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -6171,8 +6522,8 @@ abbott = {
             "teacher": "Magdy Meimari",
             "title": "Marketing",
             "rating": {
-                "rating": 2.3,
-                "reviews": 7,
+                "rating": 2.5,
+                "reviews": 8,
                 "link": "https://www.ratemyprofessors.com/professor/2497948"
             },
             "lab": {},
@@ -6223,8 +6574,8 @@ abbott = {
             "teacher": "Kevin Williams",
             "title": "Introduction to Accounting",
             "rating": {
-                "rating": 3.6,
-                "reviews": 9,
+                "rating": 3.8,
+                "reviews": 10,
                 "link": "https://www.ratemyprofessors.com/professor/1648971"
             },
             "lab": {},
@@ -6350,8 +6701,8 @@ abbott = {
             "teacher": "John Serrati",
             "title": "Introduction to Classics",
             "rating": {
-                "rating": 4.5,
-                "reviews": 28,
+                "rating": 4.8,
+                "reviews": 30,
                 "link": "https://www.ratemyprofessors.com/professor/1009083"
             },
             "lab": {},
@@ -6368,6 +6719,371 @@ abbott = {
                 "W": "0830-1000",
                 "R": "",
                 "F": "0830-1000"
+            }
+        }
+    ],
+    "383-101-AB": [
+        {
+            "section": "00001",
+            "teacher": "Bertram Somers",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 1.9,
+                "reviews": 12,
+                "link": "https://www.ratemyprofessors.com/professor/2499589"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "",
+                "R": "1000-1130",
+                "F": ""
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "To Be Announced",
+            "title": "Introduction to Macroeconomics",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1600-1730",
+                "W": "",
+                "R": "1600-1730",
+                "F": ""
+            }
+        },
+        {
+            "section": "00003",
+            "teacher": "Medoune Seck",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 3.3,
+                "reviews": 9,
+                "link": "https://www.ratemyprofessors.com/professor/1880133"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1130-1300",
+                "W": "",
+                "R": "1130-1300",
+                "F": ""
+            }
+        },
+        {
+            "section": "00004",
+            "teacher": "Medoune Seck",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 3.3,
+                "reviews": 9,
+                "link": "https://www.ratemyprofessors.com/professor/1880133"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1300-1430",
+                "W": "",
+                "R": "1300-1430",
+                "F": ""
+            }
+        },
+        {
+            "section": "00005",
+            "teacher": "Bertram Somers",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 1.9,
+                "reviews": 12,
+                "link": "https://www.ratemyprofessors.com/professor/2499589"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1600-1730",
+                "T": "",
+                "W": "1600-1730",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00006",
+            "teacher": "Bertram Somers",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 1.9,
+                "reviews": 12,
+                "link": "https://www.ratemyprofessors.com/professor/2499589"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "0830-1000",
+                "W": "",
+                "R": "0830-1000",
+                "F": ""
+            }
+        },
+        {
+            "section": "00007",
+            "teacher": "David Desjardins",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 2.6,
+                "reviews": 31,
+                "link": "https://www.ratemyprofessors.com/professor/1858701"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "0830-1000",
+                "T": "",
+                "W": "0830-1000",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00008",
+            "teacher": "Mathieu Provencher",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 2.9,
+                "reviews": 14,
+                "link": "https://www.ratemyprofessors.com/professor/2503431"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1430-1600",
+                "W": "",
+                "R": "1430-1600",
+                "F": ""
+            }
+        },
+        {
+            "section": "00009",
+            "teacher": "Mathieu Provencher",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 2.9,
+                "reviews": 14,
+                "link": "https://www.ratemyprofessors.com/professor/2503431"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1600-1730",
+                "W": "",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00010",
+            "teacher": "To Be Announced",
+            "title": "Introduction to Macroeconomics",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1300-1430",
+                "T": "",
+                "W": "1300-1430",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00011",
+            "teacher": "To Be Announced",
+            "title": "Introduction to Macroeconomics",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1600-1730",
+                "T": "",
+                "W": "1600-1730",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00012",
+            "teacher": "Avinash Samboo",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 3.5,
+                "reviews": 15,
+                "link": "https://www.ratemyprofessors.com/professor/1979108"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1300-1430",
+                "R": "",
+                "F": "1300-1430"
+            }
+        },
+        {
+            "section": "00013",
+            "teacher": "Avinash Samboo",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 3.5,
+                "reviews": 15,
+                "link": "https://www.ratemyprofessors.com/professor/1979108"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1430-1600",
+                "W": "",
+                "R": "1430-1600",
+                "F": ""
+            }
+        },
+        {
+            "section": "00014",
+            "teacher": "Kenneth Matziorinis",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 1.4,
+                "reviews": 9,
+                "link": "https://www.ratemyprofessors.com/professor/2501451"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1300-1430",
+                "W": "",
+                "R": "1300-1430",
+                "F": ""
+            }
+        },
+        {
+            "section": "00015",
+            "teacher": "David Desjardins",
+            "title": "Introduction to Macroeconomics",
+            "rating": {
+                "rating": 2.6,
+                "reviews": 31,
+                "link": "https://www.ratemyprofessors.com/professor/1858701"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1000-1130",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": ""
             }
         }
     ],
@@ -6399,13 +7115,9 @@ abbott = {
         },
         {
             "section": "00002",
-            "teacher": "Kenneth Matziorinis",
+            "teacher": "To Be Announced",
             "title": "Macroeconomics",
-            "rating": {
-                "rating": 2,
-                "reviews": 10,
-                "link": "https://www.ratemyprofessors.com/professor/2501451"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -6427,8 +7139,8 @@ abbott = {
             "teacher": "Medoune Seck",
             "title": "Macroeconomics",
             "rating": {
-                "rating": 3,
-                "reviews": 8,
+                "rating": 3.3,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/1880133"
             },
             "lab": {},
@@ -6452,8 +7164,8 @@ abbott = {
             "teacher": "Medoune Seck",
             "title": "Macroeconomics",
             "rating": {
-                "rating": 3,
-                "reviews": 8,
+                "rating": 3.3,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/1880133"
             },
             "lab": {},
@@ -6528,7 +7240,7 @@ abbott = {
             "title": "Macroeconomics",
             "rating": {
                 "rating": 2.6,
-                "reviews": 30,
+                "reviews": 31,
                 "link": "https://www.ratemyprofessors.com/professor/1858701"
             },
             "lab": {},
@@ -6553,7 +7265,7 @@ abbott = {
             "title": "Macroeconomics",
             "rating": {
                 "rating": 2.9,
-                "reviews": 13,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2503431"
             },
             "lab": {},
@@ -6578,7 +7290,7 @@ abbott = {
             "title": "Macroeconomics",
             "rating": {
                 "rating": 2.9,
-                "reviews": 13,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2503431"
             },
             "lab": {},
@@ -6645,7 +7357,7 @@ abbott = {
             "title": "Macroeconomics",
             "rating": {
                 "rating": 3.5,
-                "reviews": 14,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1979108"
             },
             "lab": {},
@@ -6670,7 +7382,7 @@ abbott = {
             "title": "Macroeconomics",
             "rating": {
                 "rating": 3.5,
-                "reviews": 14,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1979108"
             },
             "lab": {},
@@ -6691,9 +7403,13 @@ abbott = {
         },
         {
             "section": "00014",
-            "teacher": "To Be Announced",
+            "teacher": "Kenneth Matziorinis",
             "title": "Macroeconomics",
-            "rating": "DNE",
+            "rating": {
+                "rating": 1.4,
+                "reviews": 9,
+                "link": "https://www.ratemyprofessors.com/professor/2501451"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -6716,7 +7432,7 @@ abbott = {
             "title": "Macroeconomics",
             "rating": {
                 "rating": 2.6,
-                "reviews": 30,
+                "reviews": 31,
                 "link": "https://www.ratemyprofessors.com/professor/1858701"
             },
             "lab": {},
@@ -6768,7 +7484,7 @@ abbott = {
             "title": "Microeconomics",
             "rating": {
                 "rating": 2.6,
-                "reviews": 30,
+                "reviews": 31,
                 "link": "https://www.ratemyprofessors.com/professor/1858701"
             },
             "lab": {},
@@ -6793,7 +7509,7 @@ abbott = {
             "title": "Microeconomics",
             "rating": {
                 "rating": 3.5,
-                "reviews": 14,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1979108"
             },
             "lab": {},
@@ -6838,8 +7554,8 @@ abbott = {
             "teacher": "Medoune Seck",
             "title": "Microeconomics",
             "rating": {
-                "rating": 3,
-                "reviews": 8,
+                "rating": 3.3,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/1880133"
             },
             "lab": {},
@@ -6863,8 +7579,8 @@ abbott = {
             "teacher": "Medoune Seck",
             "title": "Microeconomics",
             "rating": {
-                "rating": 3,
-                "reviews": 8,
+                "rating": 3.3,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/1880133"
             },
             "lab": {},
@@ -6889,7 +7605,7 @@ abbott = {
             "title": "Microeconomics",
             "rating": {
                 "rating": 2.6,
-                "reviews": 30,
+                "reviews": 31,
                 "link": "https://www.ratemyprofessors.com/professor/1858701"
             },
             "lab": {},
@@ -6915,8 +7631,8 @@ abbott = {
             "teacher": "Kenneth Matziorinis",
             "title": "International Economic Relations",
             "rating": {
-                "rating": 2,
-                "reviews": 10,
+                "rating": 1.4,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2501451"
             },
             "lab": {},
@@ -6936,14 +7652,14 @@ abbott = {
             }
         }
     ],
-    "320-100-AB": [
+    "320-101-AB": [
         {
             "section": "00001",
             "teacher": "Stephen Bryce",
             "title": "Introduction to Geography",
             "rating": {
-                "rating": 3.5,
-                "reviews": 6,
+                "rating": 3.6,
+                "reviews": 7,
                 "link": "https://www.ratemyprofessors.com/professor/2039258"
             },
             "lab": {},
@@ -6967,8 +7683,8 @@ abbott = {
             "teacher": "Stephen Bryce",
             "title": "Introduction to Geography",
             "rating": {
-                "rating": 3.5,
-                "reviews": 6,
+                "rating": 3.6,
+                "reviews": 7,
                 "link": "https://www.ratemyprofessors.com/professor/2039258"
             },
             "lab": {},
@@ -6983,7 +7699,7 @@ abbott = {
                 "M": "",
                 "T": "1300-1430",
                 "W": "",
-                "R": "1300-1430",
+                "R": "",
                 "F": ""
             }
         },
@@ -6992,8 +7708,8 @@ abbott = {
             "teacher": "Stephen Bryce",
             "title": "Introduction to Geography",
             "rating": {
-                "rating": 3.5,
-                "reviews": 6,
+                "rating": 3.6,
+                "reviews": 7,
                 "link": "https://www.ratemyprofessors.com/professor/2039258"
             },
             "lab": {},
@@ -7018,7 +7734,7 @@ abbott = {
             "title": "Introduction to Geography",
             "rating": {
                 "rating": 3.8,
-                "reviews": 12,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2499834"
             },
             "lab": {},
@@ -7043,7 +7759,155 @@ abbott = {
             "title": "Introduction to Geography",
             "rating": {
                 "rating": 3.8,
-                "reviews": 12,
+                "reviews": 11,
+                "link": "https://www.ratemyprofessors.com/professor/2499834"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": "1000-1130"
+            }
+        },
+        {
+            "section": "00006",
+            "teacher": "To Be Announced",
+            "title": "Introduction to Geography",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "0830-1130",
+                "T": "",
+                "W": "",
+                "R": "",
+                "F": ""
+            }
+        }
+    ],
+    "320-100-AB": [
+        {
+            "section": "00001",
+            "teacher": "Stephen Bryce",
+            "title": "Introduction to Geography",
+            "rating": {
+                "rating": 3.6,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/2039258"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1430-1600",
+                "T": "",
+                "W": "1430-1600",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "Stephen Bryce",
+            "title": "Introduction to Geography",
+            "rating": {
+                "rating": 3.6,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/2039258"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1300-1430",
+                "W": "",
+                "R": "1300-1430",
+                "F": ""
+            }
+        },
+        {
+            "section": "00003",
+            "teacher": "Stephen Bryce",
+            "title": "Introduction to Geography",
+            "rating": {
+                "rating": 3.6,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/2039258"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1600-1730",
+                "W": "",
+                "R": "1600-1730",
+                "F": ""
+            }
+        },
+        {
+            "section": "00004",
+            "teacher": "John Buskard",
+            "title": "Introduction to Geography",
+            "rating": {
+                "rating": 3.8,
+                "reviews": 11,
+                "link": "https://www.ratemyprofessors.com/professor/2499834"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "0830-1000",
+                "R": "",
+                "F": "0830-1000"
+            }
+        },
+        {
+            "section": "00005",
+            "teacher": "John Buskard",
+            "title": "Introduction to Geography",
+            "rating": {
+                "rating": 3.8,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2499834"
             },
             "lab": {},
@@ -7118,7 +7982,7 @@ abbott = {
             "title": "Cities and Urbanization",
             "rating": {
                 "rating": 4.5,
-                "reviews": 8,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2499586"
             },
             "lab": {},
@@ -7144,8 +8008,8 @@ abbott = {
             "teacher": "Stephen Bryce",
             "title": "The Geography of Sports",
             "rating": {
-                "rating": 3.5,
-                "reviews": 6,
+                "rating": 3.6,
+                "reviews": 7,
                 "link": "https://www.ratemyprofessors.com/professor/2039258"
             },
             "lab": {},
@@ -7171,8 +8035,8 @@ abbott = {
             "teacher": "John Serrati",
             "title": "World History",
             "rating": {
-                "rating": 4.5,
-                "reviews": 28,
+                "rating": 4.8,
+                "reviews": 30,
                 "link": "https://www.ratemyprofessors.com/professor/1009083"
             },
             "lab": {},
@@ -7218,13 +8082,9 @@ abbott = {
         },
         {
             "section": "00003",
-            "teacher": "Julien Charest",
+            "teacher": "To Be Announced",
             "title": "World History",
-            "rating": {
-                "rating": 4.6,
-                "reviews": 14,
-                "link": "https://www.ratemyprofessors.com/professor/2563473"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -7234,10 +8094,10 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "1030-1230",
-                "T": "",
-                "W": "1030-1230",
-                "R": "",
+                "M": "",
+                "T": "1430-1630",
+                "W": "",
+                "R": "1430-1630",
                 "F": ""
             }
         },
@@ -7345,7 +8205,11 @@ abbott = {
             "section": "00008",
             "teacher": "William Russell",
             "title": "World History",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2914557"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -7368,7 +8232,7 @@ abbott = {
             "title": "World History",
             "rating": {
                 "rating": 5,
-                "reviews": 16,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498400"
             },
             "lab": {},
@@ -7393,7 +8257,7 @@ abbott = {
             "title": "World History",
             "rating": {
                 "rating": 5,
-                "reviews": 16,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498400"
             },
             "lab": {},
@@ -7558,9 +8422,13 @@ abbott = {
         },
         {
             "section": "00004",
-            "teacher": "To Be Announced",
+            "teacher": "Julien Charest",
             "title": "History of Western Civilization",
-            "rating": "DNE",
+            "rating": {
+                "rating": 4.6,
+                "reviews": 14,
+                "link": "https://www.ratemyprofessors.com/professor/2563473"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -7570,10 +8438,10 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "",
-                "T": "1430-1600",
-                "W": "",
-                "R": "1430-1600",
+                "M": "1000-1130",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
                 "F": ""
             }
         },
@@ -7677,7 +8545,11 @@ abbott = {
             "section": "00009",
             "teacher": "William Russell",
             "title": "History of Western Civilization",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2914557"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -7729,7 +8601,7 @@ abbott = {
             "title": "Modern History",
             "rating": {
                 "rating": 5,
-                "reviews": 16,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498400"
             },
             "lab": {},
@@ -7752,7 +8624,11 @@ abbott = {
             "section": "00002",
             "teacher": "William Russell",
             "title": "Modern History",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2914557"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -7795,33 +8671,6 @@ abbott = {
             }
         }
     ],
-    "330-257-AB": [
-        {
-            "section": "00001",
-            "teacher": "Fiona Tomaszewski",
-            "title": "History of Russia and the USSR",
-            "rating": {
-                "rating": 3.7,
-                "reviews": 17,
-                "link": "https://www.ratemyprofessors.com/professor/2499132"
-            },
-            "lab": {},
-            "details": {
-                "fee": "",
-                "restrict": "",
-                "exclusive": "",
-                "blended": "",
-                "intensive": ""
-            },
-            "schedule": {
-                "M": "0830-1000",
-                "T": "",
-                "W": "0830-1000",
-                "R": "",
-                "F": ""
-            }
-        }
-    ],
     "330-256-AB": [
         {
             "section": "00001",
@@ -7849,14 +8698,41 @@ abbott = {
             }
         }
     ],
-    "330-260-AB": [
+    "330-257-AB": [
+        {
+            "section": "00001",
+            "teacher": "Fiona Tomaszewski",
+            "title": "History of Russia and the USSR",
+            "rating": {
+                "rating": 3.8,
+                "reviews": 18,
+                "link": "https://www.ratemyprofessors.com/professor/2499132"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "0830-1000",
+                "T": "",
+                "W": "0830-1000",
+                "R": "",
+                "F": ""
+            }
+        }
+    ],
+    "330-265-AB": [
         {
             "section": "00001",
             "teacher": "John Serrati",
-            "title": "Ancient Mediterranean Warfare & Society",
+            "title": "Woman, Gender and Sexuality in the Ancient World",
             "rating": {
-                "rating": 4.5,
-                "reviews": 28,
+                "rating": 4.8,
+                "reviews": 30,
                 "link": "https://www.ratemyprofessors.com/professor/1009083"
             },
             "lab": {},
@@ -7890,7 +8766,7 @@ abbott = {
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "Honours Commerce and Social with Math",
+                "exclusive": "",
                 "blended": "",
                 "intensive": ""
             },
@@ -7957,8 +8833,8 @@ abbott = {
             "teacher": "Antoine Herlin",
             "title": "Calculus 1 for Social Science",
             "rating": {
-                "rating": 3.3,
-                "reviews": 19,
+                "rating": 3.5,
+                "reviews": 20,
                 "link": "https://www.ratemyprofessors.com/professor/2497906"
             },
             "lab": {},
@@ -7981,7 +8857,11 @@ abbott = {
             "section": "00005",
             "teacher": "Andrea Spencer",
             "title": "Calculus 1 for Social Science",
-            "rating": "DNE",
+            "rating": {
+                "rating": 3,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2914053"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -8000,12 +8880,12 @@ abbott = {
         },
         {
             "section": "00006",
-            "teacher": "Ethan Mombourquette",
+            "teacher": "Gabriel Herta",
             "title": "Calculus 1 for Social Science",
             "rating": {
-                "rating": 5,
-                "reviews": 18,
-                "link": "https://www.ratemyprofessors.com/professor/1912292"
+                "rating": 3.3,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/2694091"
             },
             "lab": {},
             "details": {
@@ -8025,12 +8905,12 @@ abbott = {
         },
         {
             "section": "00007",
-            "teacher": "Ethan Mombourquette",
+            "teacher": "Gabriel Herta",
             "title": "Calculus 1 for Social Science",
             "rating": {
-                "rating": 5,
-                "reviews": 18,
-                "link": "https://www.ratemyprofessors.com/professor/1912292"
+                "rating": 3.3,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/2694091"
             },
             "lab": {},
             "details": {
@@ -8100,12 +8980,12 @@ abbott = {
         },
         {
             "section": "00010",
-            "teacher": "Gabriel Herta",
+            "teacher": "Gustavo Felisberto-Valente",
             "title": "Calculus 1 for Social Science",
             "rating": {
-                "rating": 2.8,
-                "reviews": 6,
-                "link": "https://www.ratemyprofessors.com/professor/2694091"
+                "rating": 1.5,
+                "reviews": 8,
+                "link": "https://www.ratemyprofessors.com/professor/2835171"
             },
             "lab": {},
             "details": {
@@ -8271,7 +9151,11 @@ abbott = {
             "section": "00001",
             "teacher": "Andrea Spencer",
             "title": "Calculus I ENHANCED",
-            "rating": "DNE",
+            "rating": {
+                "rating": 3,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2914053"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -8294,7 +9178,7 @@ abbott = {
             "title": "Calculus I ENHANCED",
             "rating": {
                 "rating": 5,
-                "reviews": 14,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2617284"
             },
             "lab": {},
@@ -8339,12 +9223,410 @@ abbott = {
             }
         }
     ],
+    "201-103-RE": [
+        {
+            "section": "00001",
+            "teacher": "Alexandre Panassenko",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 4,
+                "reviews": 3,
+                "link": "https://www.ratemyprofessors.com/professor/1858699"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "0830-1030",
+                "T": "",
+                "W": "0830-1000",
+                "R": "",
+                "F": "0830-1000"
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "Alexandre Panassenko",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 4,
+                "reviews": 3,
+                "link": "https://www.ratemyprofessors.com/professor/1858699"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1030-1230",
+                "T": "1130-1300",
+                "W": "",
+                "R": "",
+                "F": "1130-1300"
+            }
+        },
+        {
+            "section": "00003",
+            "teacher": "Audrey Baker",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 5,
+                "reviews": 14,
+                "link": "https://www.ratemyprofessors.com/professor/2498180"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1130-1300",
+                "T": "1430-1630",
+                "W": "",
+                "R": "1130-1300",
+                "F": ""
+            }
+        },
+        {
+            "section": "00004",
+            "teacher": "Antoine Herlin",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 3.5,
+                "reviews": 20,
+                "link": "https://www.ratemyprofessors.com/professor/2497906"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1000-1130",
+                "T": "1030-1230",
+                "W": "",
+                "R": "1000-1130",
+                "F": ""
+            }
+        },
+        {
+            "section": "00005",
+            "teacher": "Andrea Spencer",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 3,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2914053"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1300-1430",
+                "W": "1230-1430",
+                "R": "",
+                "F": "0830-1000"
+            }
+        },
+        {
+            "section": "00006",
+            "teacher": "Gabriel Herta",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 3.3,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/2694091"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "1230-1430",
+                "R": "",
+                "F": "1000-1130"
+            }
+        },
+        {
+            "section": "00007",
+            "teacher": "Gabriel Herta",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 3.3,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/2694091"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1300-1430",
+                "W": "",
+                "R": "1030-1230",
+                "F": "1300-1430"
+            }
+        },
+        {
+            "section": "00008",
+            "teacher": "Giulia Chiappetta",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 1.7,
+                "reviews": 3,
+                "link": "https://www.ratemyprofessors.com/professor/2497907"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1130-1300",
+                "T": "",
+                "W": "1030-1230",
+                "R": "1130-1300",
+                "F": ""
+            }
+        },
+        {
+            "section": "00009",
+            "teacher": "Giulia Chiappetta",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 1.7,
+                "reviews": 3,
+                "link": "https://www.ratemyprofessors.com/professor/2497907"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1300-1430",
+                "T": "1230-1430",
+                "W": "",
+                "R": "1300-1430",
+                "F": ""
+            }
+        },
+        {
+            "section": "00010",
+            "teacher": "Gustavo Felisberto-Valente",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 1.5,
+                "reviews": 8,
+                "link": "https://www.ratemyprofessors.com/professor/2835171"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1600-1730",
+                "W": "1230-1430",
+                "R": "",
+                "F": "1000-1130"
+            }
+        },
+        {
+            "section": "00011",
+            "teacher": "Moushira Guindi",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 5,
+                "reviews": 12,
+                "link": "https://www.ratemyprofessors.com/professor/2498149"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1000-1130",
+                "T": "",
+                "W": "1030-1230",
+                "R": "1000-1130",
+                "F": ""
+            }
+        },
+        {
+            "section": "00012",
+            "teacher": "Olivier Dubois",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 5,
+                "reviews": 11,
+                "link": "https://www.ratemyprofessors.com/professor/2654692"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "0830-1000",
+                "T": "",
+                "W": "",
+                "R": "0830-1030",
+                "F": "0830-1000"
+            }
+        },
+        {
+            "section": "00013",
+            "teacher": "Olivier Dubois",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 5,
+                "reviews": 11,
+                "link": "https://www.ratemyprofessors.com/professor/2654692"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1300-1430",
+                "T": "",
+                "W": "1230-1430",
+                "R": "",
+                "F": "1300-1430"
+            }
+        },
+        {
+            "section": "00014",
+            "teacher": "Sergio Fratarcangeli",
+            "title": "Calculus I",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "1230-1430",
+                "R": "",
+                "F": "1000-1130"
+            }
+        },
+        {
+            "section": "00015",
+            "teacher": "Sergio Fratarcangeli",
+            "title": "Calculus I",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1300-1430",
+                "W": "",
+                "R": "1230-1430",
+                "F": "1300-1430"
+            }
+        },
+        {
+            "section": "00016",
+            "teacher": "Shery Mikhail",
+            "title": "Calculus I",
+            "rating": {
+                "rating": 0,
+                "reviews": 0,
+                "link": "https://www.ratemyprofessors.com/professor/2498069"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "0830-1000",
+                "T": "0830-1000",
+                "W": "",
+                "R": "1230-1430",
+                "F": ""
+            }
+        }
+    ],
     "201-203-RE": [
         {
             "section": "00001",
             "teacher": "Andrea Spencer",
             "title": "Calculus II",
-            "rating": "DNE",
+            "rating": {
+                "rating": 3,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2914053"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -8367,7 +9649,7 @@ abbott = {
             "title": "Calculus II",
             "rating": {
                 "rating": 4.3,
-                "reviews": 14,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/1877082"
             },
             "lab": {},
@@ -8392,7 +9674,7 @@ abbott = {
             "title": "Calculus II",
             "rating": {
                 "rating": 4.3,
-                "reviews": 14,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/1877082"
             },
             "lab": {},
@@ -8439,8 +9721,8 @@ abbott = {
             "teacher": "Derrick Chung",
             "title": "Linear Algebra",
             "rating": {
-                "rating": 4.1,
-                "reviews": 13,
+                "rating": 4.3,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/1864947"
             },
             "lab": {},
@@ -8615,7 +9897,7 @@ abbott = {
             "title": "Linear Algebra",
             "rating": {
                 "rating": 5,
-                "reviews": 14,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2617284"
             },
             "lab": {},
@@ -8640,7 +9922,7 @@ abbott = {
             "title": "Linear Algebra",
             "rating": {
                 "rating": 5,
-                "reviews": 14,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2617284"
             },
             "lab": {},
@@ -8719,7 +10001,7 @@ abbott = {
             "title": "Introduction to Social Science",
             "rating": {
                 "rating": 3.8,
-                "reviews": 12,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2499834"
             },
             "lab": {},
@@ -8732,9 +10014,9 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "0830-1000",
+                "T": "1430-1600",
                 "W": "",
-                "R": "0830-1000",
+                "R": "1430-1600",
                 "F": ""
             }
         },
@@ -8889,15 +10171,15 @@ abbott = {
             "teacher": "Nicola Hope",
             "title": "Introduction to Social Science",
             "rating": {
-                "rating": 4.6,
-                "reviews": 12,
+                "rating": 4.8,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2643306"
             },
             "lab": {},
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "",
+                "exclusive": "Honours Social Science",
                 "blended": "",
                 "intensive": ""
             },
@@ -8911,7 +10193,7 @@ abbott = {
         },
         {
             "section": "00009",
-            "teacher": "To Be Announced",
+            "teacher": "Nick Alvarez",
             "title": "Introduction to Social Science",
             "rating": "DNE",
             "lab": {},
@@ -9007,7 +10289,7 @@ abbott = {
         },
         {
             "section": "00013",
-            "teacher": "To Be Announced",
+            "teacher": "Fareed Awan",
             "title": "Introduction to Social Science",
             "rating": "DNE",
             "lab": {},
@@ -9082,7 +10364,7 @@ abbott = {
             "title": "Introduction to Social Science",
             "rating": {
                 "rating": 2.9,
-                "reviews": 13,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2503431"
             },
             "lab": {},
@@ -9103,7 +10385,7 @@ abbott = {
         },
         {
             "section": "00017",
-            "teacher": "To Be Announced",
+            "teacher": "Fareed Awan",
             "title": "Introduction to Social Science",
             "rating": "DNE",
             "lab": {},
@@ -9124,7 +10406,7 @@ abbott = {
         },
         {
             "section": "00018",
-            "teacher": "To Be Announced",
+            "teacher": "Fareed Awan",
             "title": "Introduction to Social Science",
             "rating": "DNE",
             "lab": {},
@@ -9145,9 +10427,13 @@ abbott = {
         },
         {
             "section": "00019",
-            "teacher": "To Be Announced",
+            "teacher": "Benedetto Angeloni",
             "title": "Introduction to Social Science",
-            "rating": "DNE",
+            "rating": {
+                "rating": 0,
+                "reviews": 0,
+                "link": "https://www.ratemyprofessors.com/professor/2892429"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -9166,9 +10452,13 @@ abbott = {
         },
         {
             "section": "00020",
-            "teacher": "To Be Announced",
+            "teacher": "Benedetto Angeloni",
             "title": "Introduction to Social Science",
-            "rating": "DNE",
+            "rating": {
+                "rating": 0,
+                "reviews": 0,
+                "link": "https://www.ratemyprofessors.com/professor/2892429"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -9187,7 +10477,7 @@ abbott = {
         },
         {
             "section": "00021",
-            "teacher": "To Be Announced",
+            "teacher": "Nick Alvarez",
             "title": "Introduction to Social Science",
             "rating": "DNE",
             "lab": {},
@@ -9732,7 +11022,7 @@ abbott = {
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "Honours Social Science, Social w Math and Commerce",
+                "exclusive": "Honours Social Science, Social w Math,  Commerce & Psychology",
                 "blended": "",
                 "intensive": ""
             },
@@ -9756,7 +11046,7 @@ abbott = {
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "Honours Social Science, Social w Math and Commerce",
+                "exclusive": "Honours Social Science, Social w Math,  Commerce & Psychology",
                 "blended": "",
                 "intensive": ""
             },
@@ -10186,11 +11476,11 @@ abbott = {
         },
         {
             "section": "00035",
-            "teacher": "To Be Announced",
+            "teacher": "Fareed Awan",
             "title": "Social Science Research Methods",
             "rating": "DNE",
             "lab": {
-                "teacher": "To Be Announced",
+                "teacher": "Fareed Awan",
                 "rating": "DNE"
             },
             "details": {
@@ -10286,9 +11576,13 @@ abbott = {
         },
         {
             "section": "00003",
-            "teacher": "To Be Announced",
+            "teacher": "Benedetto Angeloni",
             "title": "Integration in the Social Sciences",
-            "rating": "DNE",
+            "rating": {
+                "rating": 0,
+                "reviews": 0,
+                "link": "https://www.ratemyprofessors.com/professor/2892429"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -10311,7 +11605,7 @@ abbott = {
             "title": "Integration in the Social Sciences",
             "rating": {
                 "rating": 4.5,
-                "reviews": 8,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2499586"
             },
             "lab": {},
@@ -10407,7 +11701,7 @@ abbott = {
             "title": "ISS: The Climate Crisis and the Environment",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2664838"
             },
             "lab": {},
@@ -10587,14 +11881,14 @@ abbott = {
             "title": "Quantitative Methods in Social Sciences",
             "rating": {
                 "rating": 5,
-                "reviews": 13,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2385814"
             },
             "lab": {
                 "teacher": "Dario Guiducci",
                 "rating": {
                     "rating": 5,
-                    "reviews": 13,
+                    "reviews": 14,
                     "link": "https://www.ratemyprofessors.com/professor/2385814"
                 }
             },
@@ -10619,14 +11913,14 @@ abbott = {
             "title": "Quantitative Methods in Social Sciences",
             "rating": {
                 "rating": 5,
-                "reviews": 13,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2385814"
             },
             "lab": {
                 "teacher": "Dario Guiducci",
                 "rating": {
                     "rating": 5,
-                    "reviews": 13,
+                    "reviews": 14,
                     "link": "https://www.ratemyprofessors.com/professor/2385814"
                 }
             },
@@ -10651,14 +11945,14 @@ abbott = {
             "title": "Quantitative Methods in Social Sciences",
             "rating": {
                 "rating": 5,
-                "reviews": 13,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2385814"
             },
             "lab": {
                 "teacher": "Dario Guiducci",
                 "rating": {
                     "rating": 5,
-                    "reviews": 13,
+                    "reviews": 14,
                     "link": "https://www.ratemyprofessors.com/professor/2385814"
                 }
             },
@@ -10683,14 +11977,14 @@ abbott = {
             "title": "Quantitative Methods in Social Sciences",
             "rating": {
                 "rating": 5,
-                "reviews": 13,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2385814"
             },
             "lab": {
                 "teacher": "Dario Guiducci",
                 "rating": {
                     "rating": 5,
-                    "reviews": 13,
+                    "reviews": 14,
                     "link": "https://www.ratemyprofessors.com/professor/2385814"
                 }
             },
@@ -11015,19 +12309,19 @@ abbott = {
         },
         {
             "section": "00019",
-            "teacher": "Benedetto Angeloni",
+            "teacher": "Shannon Ikebe",
             "title": "Quantitative Methods in Social Sciences",
             "rating": {
-                "rating": 0,
-                "reviews": 0,
-                "link": "https://www.ratemyprofessors.com/professor/2892429"
+                "rating": 5,
+                "reviews": 2,
+                "link": "https://www.ratemyprofessors.com/professor/2815425"
             },
             "lab": {
-                "teacher": "Benedetto Angeloni",
+                "teacher": "Shannon Ikebe",
                 "rating": {
-                    "rating": 0,
-                    "reviews": 0,
-                    "link": "https://www.ratemyprofessors.com/professor/2892429"
+                    "rating": 5,
+                    "reviews": 2,
+                    "link": "https://www.ratemyprofessors.com/professor/2815425"
                 }
             },
             "details": {
@@ -11047,19 +12341,19 @@ abbott = {
         },
         {
             "section": "00020",
-            "teacher": "Benedetto Angeloni",
+            "teacher": "Shannon Ikebe",
             "title": "Quantitative Methods in Social Sciences",
             "rating": {
-                "rating": 0,
-                "reviews": 0,
-                "link": "https://www.ratemyprofessors.com/professor/2892429"
+                "rating": 5,
+                "reviews": 2,
+                "link": "https://www.ratemyprofessors.com/professor/2815425"
             },
             "lab": {
-                "teacher": "Benedetto Angeloni",
+                "teacher": "Shannon Ikebe",
                 "rating": {
-                    "rating": 0,
-                    "reviews": 0,
-                    "link": "https://www.ratemyprofessors.com/professor/2892429"
+                    "rating": 5,
+                    "reviews": 2,
+                    "link": "https://www.ratemyprofessors.com/professor/2815425"
                 }
             },
             "details": {
@@ -11079,19 +12373,19 @@ abbott = {
         },
         {
             "section": "00021",
-            "teacher": "Benedetto Angeloni",
+            "teacher": "Shannon Ikebe",
             "title": "Quantitative Methods in Social Sciences",
             "rating": {
-                "rating": 0,
-                "reviews": 0,
-                "link": "https://www.ratemyprofessors.com/professor/2892429"
+                "rating": 5,
+                "reviews": 2,
+                "link": "https://www.ratemyprofessors.com/professor/2815425"
             },
             "lab": {
-                "teacher": "Benedetto Angeloni",
+                "teacher": "Shannon Ikebe",
                 "rating": {
-                    "rating": 0,
-                    "reviews": 0,
-                    "link": "https://www.ratemyprofessors.com/professor/2892429"
+                    "rating": 5,
+                    "reviews": 2,
+                    "link": "https://www.ratemyprofessors.com/professor/2815425"
                 }
             },
             "details": {
@@ -11111,19 +12405,19 @@ abbott = {
         },
         {
             "section": "00022",
-            "teacher": "Benedetto Angeloni",
+            "teacher": "Shannon Ikebe",
             "title": "Quantitative Methods in Social Sciences",
             "rating": {
-                "rating": 0,
-                "reviews": 0,
-                "link": "https://www.ratemyprofessors.com/professor/2892429"
+                "rating": 5,
+                "reviews": 2,
+                "link": "https://www.ratemyprofessors.com/professor/2815425"
             },
             "lab": {
-                "teacher": "Benedetto Angeloni",
+                "teacher": "Shannon Ikebe",
                 "rating": {
-                    "rating": 0,
-                    "reviews": 0,
-                    "link": "https://www.ratemyprofessors.com/professor/2892429"
+                    "rating": 5,
+                    "reviews": 2,
+                    "link": "https://www.ratemyprofessors.com/professor/2815425"
                 }
             },
             "details": {
@@ -11146,15 +12440,15 @@ abbott = {
             "teacher": "Abdulrahman Karouma",
             "title": "Quantitative Methods in Social Sciences",
             "rating": {
-                "rating": 3.6,
-                "reviews": 7,
+                "rating": 3.9,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2499598"
             },
             "lab": {
                 "teacher": "Abdulrahman Karouma",
                 "rating": {
-                    "rating": 3.6,
-                    "reviews": 7,
+                    "rating": 3.9,
+                    "reviews": 11,
                     "link": "https://www.ratemyprofessors.com/professor/2499598"
                 }
             },
@@ -11178,15 +12472,15 @@ abbott = {
             "teacher": "Abdulrahman Karouma",
             "title": "Quantitative Methods in Social Sciences",
             "rating": {
-                "rating": 3.6,
-                "reviews": 7,
+                "rating": 3.9,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2499598"
             },
             "lab": {
                 "teacher": "Abdulrahman Karouma",
                 "rating": {
-                    "rating": 3.6,
-                    "reviews": 7,
+                    "rating": 3.9,
+                    "reviews": 11,
                     "link": "https://www.ratemyprofessors.com/professor/2499598"
                 }
             },
@@ -11202,6 +12496,50 @@ abbott = {
                 "T": "1000-1130",
                 "W": "",
                 "R": "0830-1100",
+                "F": ""
+            }
+        }
+    ],
+    "340-102-AB": [
+        {
+            "section": "00001",
+            "teacher": "Brandon Daniel-Hughes",
+            "title": "Introduction to Philosophy",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "0830-1000",
+                "W": "",
+                "R": "0830-1000",
+                "F": ""
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "Brandon Daniel-Hughes",
+            "title": "Introduction to Philosophy",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "",
+                "R": "1000-1130",
                 "F": ""
             }
         }
@@ -11250,14 +12588,14 @@ abbott = {
             }
         }
     ],
-    "385-100-AB": [
+    "385-101-AB": [
         {
             "section": "00001",
             "teacher": "Christophe Chowanietz",
             "title": "Introduction to Political Science",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2664838"
             },
             "lab": {},
@@ -11282,7 +12620,7 @@ abbott = {
             "title": "Introduction to Political Science",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2664838"
             },
             "lab": {},
@@ -11331,8 +12669,110 @@ abbott = {
             "teacher": "Nicola Hope",
             "title": "Introduction to Political Science",
             "rating": {
-                "rating": 4.6,
-                "reviews": 12,
+                "rating": 4.8,
+                "reviews": 13,
+                "link": "https://www.ratemyprofessors.com/professor/2643306"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1300-1430",
+                "T": "",
+                "W": "1300-1430",
+                "R": "",
+                "F": ""
+            }
+        }
+    ],
+    "385-100-AB": [
+        {
+            "section": "00001",
+            "teacher": "Christophe Chowanietz",
+            "title": "Introduction to Political Science",
+            "rating": {
+                "rating": 5,
+                "reviews": 18,
+                "link": "https://www.ratemyprofessors.com/professor/2664838"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1130-1300",
+                "T": "",
+                "W": "1130-1300",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "Christophe Chowanietz",
+            "title": "Introduction to Political Science",
+            "rating": {
+                "rating": 5,
+                "reviews": 18,
+                "link": "https://www.ratemyprofessors.com/professor/2664838"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1300-1430",
+                "T": "",
+                "W": "1300-1430",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00003",
+            "teacher": "Julien Laflamme",
+            "title": "Introduction to Political Science",
+            "rating": {
+                "rating": 4.5,
+                "reviews": 8,
+                "link": "https://www.ratemyprofessors.com/professor/2695742"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "",
+                "R": "1000-1130",
+                "F": ""
+            }
+        },
+        {
+            "section": "00004",
+            "teacher": "Nicola Hope",
+            "title": "Introduction to Political Science",
+            "rating": {
+                "rating": 4.8,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2643306"
             },
             "lab": {},
@@ -11359,7 +12799,7 @@ abbott = {
             "title": "International Politics",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2664838"
             },
             "lab": {},
@@ -11385,8 +12825,8 @@ abbott = {
             "teacher": "Luigi Pasto",
             "title": "Introduction to Psychology",
             "rating": {
-                "rating": 4.8,
-                "reviews": 12,
+                "rating": 4.9,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498335"
             },
             "lab": {},
@@ -11410,8 +12850,8 @@ abbott = {
             "teacher": "Luigi Pasto",
             "title": "Introduction to Psychology",
             "rating": {
-                "rating": 4.8,
-                "reviews": 12,
+                "rating": 4.9,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498335"
             },
             "lab": {},
@@ -11435,8 +12875,8 @@ abbott = {
             "teacher": "Luigi Pasto",
             "title": "Introduction to Psychology",
             "rating": {
-                "rating": 4.8,
-                "reviews": 12,
+                "rating": 4.9,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498335"
             },
             "lab": {},
@@ -11611,7 +13051,7 @@ abbott = {
             "title": "Introduction to Psychology",
             "rating": {
                 "rating": 5,
-                "reviews": 15,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498337"
             },
             "lab": {},
@@ -11636,7 +13076,7 @@ abbott = {
             "title": "Introduction to Psychology",
             "rating": {
                 "rating": 5,
-                "reviews": 15,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498337"
             },
             "lab": {},
@@ -11709,11 +13149,7 @@ abbott = {
             "section": "00014",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
-            "rating": {
-                "rating": 5,
-                "reviews": 16,
-                "link": "https://www.ratemyprofessors.com/professor/2747522"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -11734,11 +13170,7 @@ abbott = {
             "section": "00015",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
-            "rating": {
-                "rating": 5,
-                "reviews": 16,
-                "link": "https://www.ratemyprofessors.com/professor/2747522"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -11759,11 +13191,397 @@ abbott = {
             "section": "00016",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1430-1600",
+                "R": "",
+                "F": "1430-1600"
+            }
+        }
+    ],
+    "350-102-AB": [
+        {
+            "section": "00001",
+            "teacher": "Luigi Pasto",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 4.9,
+                "reviews": 13,
+                "link": "https://www.ratemyprofessors.com/professor/2498335"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1000-1130",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "Luigi Pasto",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 4.9,
+                "reviews": 13,
+                "link": "https://www.ratemyprofessors.com/professor/2498335"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1300-1430",
+                "W": "",
+                "R": "1300-1430",
+                "F": ""
+            }
+        },
+        {
+            "section": "00003",
+            "teacher": "Luigi Pasto",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 4.9,
+                "reviews": 13,
+                "link": "https://www.ratemyprofessors.com/professor/2498335"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1430-1600",
+                "W": "",
+                "R": "1430-1600",
+                "F": ""
+            }
+        },
+        {
+            "section": "00004",
+            "teacher": "Michelle Kwas",
+            "title": "Introduction to Psychology",
             "rating": {
                 "rating": 5,
-                "reviews": 16,
-                "link": "https://www.ratemyprofessors.com/professor/2747522"
+                "reviews": 14,
+                "link": "https://www.ratemyprofessors.com/professor/2498064"
             },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "",
+                "R": "1000-1130",
+                "F": ""
+            }
+        },
+        {
+            "section": "00005",
+            "teacher": "Steven Strudensky",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 4.4,
+                "reviews": 17,
+                "link": "https://www.ratemyprofessors.com/professor/1858704"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "",
+                "R": "1000-1130",
+                "F": ""
+            }
+        },
+        {
+            "section": "00006",
+            "teacher": "Steven Strudensky",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 4.4,
+                "reviews": 17,
+                "link": "https://www.ratemyprofessors.com/professor/1858704"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1300-1430",
+                "W": "",
+                "R": "1300-1430",
+                "F": ""
+            }
+        },
+        {
+            "section": "00007",
+            "teacher": "Michael Foy",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 4.8,
+                "reviews": 11,
+                "link": "https://www.ratemyprofessors.com/professor/2501455"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "0830-1000",
+                "W": "",
+                "R": "0830-1000",
+                "F": ""
+            }
+        },
+        {
+            "section": "00008",
+            "teacher": "Michael Foy",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 4.8,
+                "reviews": 11,
+                "link": "https://www.ratemyprofessors.com/professor/2501455"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": "1000-1130"
+            }
+        },
+        {
+            "section": "00009",
+            "teacher": "Michael Foy",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 4.8,
+                "reviews": 11,
+                "link": "https://www.ratemyprofessors.com/professor/2501455"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1130-1300",
+                "R": "",
+                "F": "1130-1300"
+            }
+        },
+        {
+            "section": "00010",
+            "teacher": "Jennifer Rocchi",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 5,
+                "reviews": 17,
+                "link": "https://www.ratemyprofessors.com/professor/2498337"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1130-1300",
+                "T": "",
+                "W": "",
+                "R": "1130-1300",
+                "F": ""
+            }
+        },
+        {
+            "section": "00011",
+            "teacher": "Jennifer Rocchi",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 5,
+                "reviews": 17,
+                "link": "https://www.ratemyprofessors.com/professor/2498337"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1300-1430",
+                "T": "",
+                "W": "",
+                "R": "1300-1430",
+                "F": ""
+            }
+        },
+        {
+            "section": "00012",
+            "teacher": "Julie Caouette",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 3.4,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/1974601"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1430-1600",
+                "R": "",
+                "F": "1430-1600"
+            }
+        },
+        {
+            "section": "00013",
+            "teacher": "Julie Caouette",
+            "title": "Introduction to Psychology",
+            "rating": {
+                "rating": 3.4,
+                "reviews": 7,
+                "link": "https://www.ratemyprofessors.com/professor/1974601"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1600-1730",
+                "T": "",
+                "W": "1600-1730",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00014",
+            "teacher": "Jacqueline Aubie",
+            "title": "Introduction to Psychology",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "",
+                "R": "",
+                "F": "1000-1130"
+            }
+        },
+        {
+            "section": "00015",
+            "teacher": "Jacqueline Aubie",
+            "title": "Introduction to Psychology",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1130-1300",
+                "W": "",
+                "R": "",
+                "F": "1130-1300"
+            }
+        },
+        {
+            "section": "00016",
+            "teacher": "Jacqueline Aubie",
+            "title": "Introduction to Psychology",
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -11877,6 +13695,58 @@ abbott = {
             }
         }
     ],
+    "350-253-AB": [
+        {
+            "section": "00001",
+            "teacher": "Steven Strudensky",
+            "title": "Social Psychology",
+            "rating": {
+                "rating": 4.4,
+                "reviews": 17,
+                "link": "https://www.ratemyprofessors.com/professor/1858704"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1000-1130",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "Jennifer Rocchi",
+            "title": "Social Psychology",
+            "rating": {
+                "rating": 5,
+                "reviews": 17,
+                "link": "https://www.ratemyprofessors.com/professor/2498337"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1130-1300",
+                "W": "",
+                "R": "",
+                "F": "1130-1300"
+            }
+        }
+    ],
     "350-252-AB": [
         {
             "section": "00001",
@@ -11933,8 +13803,8 @@ abbott = {
             "teacher": "Luigi Pasto",
             "title": "Mental Health",
             "rating": {
-                "rating": 4.8,
-                "reviews": 12,
+                "rating": 4.9,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498335"
             },
             "lab": {},
@@ -11951,58 +13821,6 @@ abbott = {
                 "W": "0830-1000",
                 "R": "",
                 "F": ""
-            }
-        }
-    ],
-    "350-253-AB": [
-        {
-            "section": "00001",
-            "teacher": "Steven Strudensky",
-            "title": "Social Psychology",
-            "rating": {
-                "rating": 4.4,
-                "reviews": 17,
-                "link": "https://www.ratemyprofessors.com/professor/1858704"
-            },
-            "lab": {},
-            "details": {
-                "fee": "",
-                "restrict": "",
-                "exclusive": "",
-                "blended": "",
-                "intensive": ""
-            },
-            "schedule": {
-                "M": "1000-1130",
-                "T": "",
-                "W": "1000-1130",
-                "R": "",
-                "F": ""
-            }
-        },
-        {
-            "section": "00002",
-            "teacher": "Jennifer Rocchi",
-            "title": "Social Psychology",
-            "rating": {
-                "rating": 5,
-                "reviews": 15,
-                "link": "https://www.ratemyprofessors.com/professor/2498337"
-            },
-            "lab": {},
-            "details": {
-                "fee": "",
-                "restrict": "",
-                "exclusive": "",
-                "blended": "",
-                "intensive": ""
-            },
-            "schedule": {
-                "M": "",
-                "T": "1130-1300",
-                "W": "",
-                "R": "",
-                "F": "1130-1300"
             }
         }
     ],
@@ -12135,14 +13953,41 @@ abbott = {
             }
         }
     ],
+    "370-101-AB": [
+        {
+            "section": "00001",
+            "teacher": "Grace Lin",
+            "title": "Introduction to World Religions",
+            "rating": {
+                "rating": 4,
+                "reviews": 2,
+                "link": "https://www.ratemyprofessors.com/professor/2888286"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1000-1130",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": ""
+            }
+        }
+    ],
     "370-100-AB": [
         {
             "section": "00001",
             "teacher": "Grace Lin",
             "title": "Religions of the World",
             "rating": {
-                "rating": 3,
-                "reviews": 1,
+                "rating": 4,
+                "reviews": 2,
                 "link": "https://www.ratemyprofessors.com/professor/2888286"
             },
             "lab": {},
@@ -12182,6 +14027,204 @@ abbott = {
                 "W": "1300-1430",
                 "R": "",
                 "F": ""
+            }
+        }
+    ],
+    "387-101-AB": [
+        {
+            "section": "00001",
+            "teacher": "Wendi Hadd",
+            "title": "Introduction to Sociology",
+            "rating": {
+                "rating": 5,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2826023"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "0830-1000",
+                "T": "",
+                "W": "0830-1000",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "Wendi Hadd",
+            "title": "Introduction to Sociology",
+            "rating": {
+                "rating": 5,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2826023"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1000-1130",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00003",
+            "teacher": "Lisa Allen",
+            "title": "Introduction to Sociology",
+            "rating": {
+                "rating": 5,
+                "reviews": 2,
+                "link": "https://www.ratemyprofessors.com/professor/2850890"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "0830-1000",
+                "W": "",
+                "R": "0830-1000",
+                "F": ""
+            }
+        },
+        {
+            "section": "00004",
+            "teacher": "Lisa Allen",
+            "title": "Introduction to Sociology",
+            "rating": {
+                "rating": 5,
+                "reviews": 2,
+                "link": "https://www.ratemyprofessors.com/professor/2850890"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1000-1130",
+                "W": "",
+                "R": "1000-1130",
+                "F": ""
+            }
+        },
+        {
+            "section": "00005",
+            "teacher": "Richard Element",
+            "title": "Introduction to Sociology",
+            "rating": {
+                "rating": 2.8,
+                "reviews": 10,
+                "link": "https://www.ratemyprofessors.com/professor/2498655"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1130-1300",
+                "W": "",
+                "R": "1130-1300",
+                "F": ""
+            }
+        },
+        {
+            "section": "00006",
+            "teacher": "Onur Kapdan",
+            "title": "Introduction to Sociology",
+            "rating": {
+                "rating": 4.5,
+                "reviews": 6,
+                "link": "https://www.ratemyprofessors.com/professor/2600667"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1130-1300",
+                "T": "",
+                "W": "1130-1300",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00007",
+            "teacher": "Onur Kapdan",
+            "title": "Introduction to Sociology",
+            "rating": {
+                "rating": 4.5,
+                "reviews": 6,
+                "link": "https://www.ratemyprofessors.com/professor/2600667"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1300-1430",
+                "T": "",
+                "W": "1300-1430",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00008",
+            "teacher": "To Be Announced",
+            "title": "Introduction to Sociology",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "0830-1000",
+                "R": "",
+                "F": "0830-1000"
             }
         }
     ],
@@ -13133,7 +15176,7 @@ abbott = {
             "title": "Knowledge in Science & thru Art",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/1393759"
             },
             "lab": {},
@@ -13158,7 +15201,7 @@ abbott = {
             "title": "Art and Knowledge",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/1393759"
             },
             "lab": {},
@@ -13650,7 +15693,7 @@ abbott = {
             "title": "Shelter (Blended)",
             "rating": {
                 "rating": 5,
-                "reviews": 22,
+                "reviews": 23,
                 "link": "https://www.ratemyprofessors.com/professor/2486316"
             },
             "lab": {},
@@ -13675,7 +15718,7 @@ abbott = {
             "title": "Shelter (Blended)",
             "rating": {
                 "rating": 5,
-                "reviews": 22,
+                "reviews": 23,
                 "link": "https://www.ratemyprofessors.com/professor/2486316"
             },
             "lab": {},
@@ -13699,8 +15742,8 @@ abbott = {
             "teacher": "Alan Weiss",
             "title": "Struggle of Ideas in Mod. Drama",
             "rating": {
-                "rating": 3.4,
-                "reviews": 37,
+                "rating": 3.5,
+                "reviews": 38,
                 "link": "https://www.ratemyprofessors.com/professor/1858718"
             },
             "lab": {},
@@ -13724,8 +15767,8 @@ abbott = {
             "teacher": "Alan Weiss",
             "title": "Struggle of Ideas in Mod. Drama",
             "rating": {
-                "rating": 3.4,
-                "reviews": 37,
+                "rating": 3.5,
+                "reviews": 38,
                 "link": "https://www.ratemyprofessors.com/professor/1858718"
             },
             "lab": {},
@@ -13846,12 +15889,12 @@ abbott = {
         },
         {
             "section": "00030",
-            "teacher": "Deborah Lunny",
-            "title": "Women, Power, Knowledge",
+            "teacher": "Ful Massimi",
+            "title": "Documenting Myths",
             "rating": {
-                "rating": 1,
-                "reviews": 1,
-                "link": "https://www.ratemyprofessors.com/professor/2896779"
+                "rating": 5,
+                "reviews": 8,
+                "link": "https://www.ratemyprofessors.com/professor/2701338"
             },
             "lab": {},
             "details": {
@@ -13897,8 +15940,8 @@ abbott = {
             "teacher": "Grace Lin",
             "title": "Let Us Compare Cosmologies",
             "rating": {
-                "rating": 3,
-                "reviews": 1,
+                "rating": 4,
+                "reviews": 2,
                 "link": "https://www.ratemyprofessors.com/professor/2888286"
             },
             "lab": {},
@@ -13973,7 +16016,7 @@ abbott = {
             "title": "Camera Politica (Blended)",
             "rating": {
                 "rating": 2.9,
-                "reviews": 15,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/2498155"
             },
             "lab": {},
@@ -13998,7 +16041,7 @@ abbott = {
             "title": "Camera Politica (Blended)",
             "rating": {
                 "rating": 2.9,
-                "reviews": 15,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/2498155"
             },
             "lab": {},
@@ -14012,7 +16055,7 @@ abbott = {
             "schedule": {
                 "M": "",
                 "T": "",
-                "W": "1130-1430",
+                "W": "0830-1130",
                 "R": "",
                 "F": ""
             }
@@ -14023,7 +16066,7 @@ abbott = {
             "title": "Camera Politica (Blended)",
             "rating": {
                 "rating": 2.9,
-                "reviews": 15,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/2498155"
             },
             "lab": {},
@@ -14053,7 +16096,7 @@ abbott = {
             },
             "lab": {},
             "details": {
-                "fee": "",
+                "fee": 10,
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
@@ -14078,7 +16121,7 @@ abbott = {
             },
             "lab": {},
             "details": {
-                "fee": "",
+                "fee": 10,
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
@@ -14103,7 +16146,7 @@ abbott = {
             },
             "lab": {},
             "details": {
-                "fee": "",
+                "fee": 10,
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
@@ -14372,8 +16415,8 @@ abbott = {
             "teacher": "Grace Lin",
             "title": "Religions and Liberation (Blended)",
             "rating": {
-                "rating": 3,
-                "reviews": 1,
+                "rating": 4,
+                "reviews": 2,
                 "link": "https://www.ratemyprofessors.com/professor/2888286"
             },
             "lab": {},
@@ -14386,9 +16429,9 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1000-1130",
+                "T": "1430-1600",
                 "W": "",
-                "R": "1000-1130",
+                "R": "1430-1600",
                 "F": ""
             }
         },
@@ -14447,8 +16490,8 @@ abbott = {
             "teacher": "Alan Weiss",
             "title": "Taking Sides on W. Views & Drama",
             "rating": {
-                "rating": 3.4,
-                "reviews": 37,
+                "rating": 3.5,
+                "reviews": 38,
                 "link": "https://www.ratemyprofessors.com/professor/1858718"
             },
             "lab": {},
@@ -14472,8 +16515,8 @@ abbott = {
             "teacher": "Alan Weiss",
             "title": "Taking Sides on W. Views & Drama",
             "rating": {
-                "rating": 3.4,
-                "reviews": 37,
+                "rating": 3.5,
+                "reviews": 38,
                 "link": "https://www.ratemyprofessors.com/professor/1858718"
             },
             "lab": {},
@@ -14497,13 +16540,13 @@ abbott = {
             "teacher": "Roy Fu",
             "title": "Technology and Human Values",
             "rating": {
-                "rating": 4,
-                "reviews": 2,
+                "rating": 3.4,
+                "reviews": 3,
                 "link": "https://www.ratemyprofessors.com/professor/2857294"
             },
             "lab": {},
             "details": {
-                "fee": 7,
+                "fee": 8,
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
@@ -14522,13 +16565,13 @@ abbott = {
             "teacher": "Roy Fu",
             "title": "Technology and Human Values",
             "rating": {
-                "rating": 4,
-                "reviews": 2,
+                "rating": 3.4,
+                "reviews": 3,
                 "link": "https://www.ratemyprofessors.com/professor/2857294"
             },
             "lab": {},
             "details": {
-                "fee": 7,
+                "fee": 8,
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
@@ -14675,7 +16718,7 @@ abbott = {
         {
             "section": "00033",
             "teacher": "Eileen Kerwin",
-            "title": "Women's Human Rights",
+            "title": "Women's Human Rights (Blended)",
             "rating": {
                 "rating": 3.5,
                 "reviews": 11,
@@ -14686,7 +16729,7 @@ abbott = {
                 "fee": "",
                 "restrict": "",
                 "exclusive": "",
-                "blended": "",
+                "blended": true,
                 "intensive": ""
             },
             "schedule": {
@@ -14700,7 +16743,7 @@ abbott = {
         {
             "section": "00034",
             "teacher": "Eileen Kerwin",
-            "title": "Women's Human Rights",
+            "title": "Women's Human Rights (Blended)",
             "rating": {
                 "rating": 3.5,
                 "reviews": 11,
@@ -14711,7 +16754,7 @@ abbott = {
                 "fee": "",
                 "restrict": "",
                 "exclusive": "",
-                "blended": "",
+                "blended": true,
                 "intensive": ""
             },
             "schedule": {
@@ -14725,7 +16768,7 @@ abbott = {
         {
             "section": "00035",
             "teacher": "Eileen Kerwin",
-            "title": "Women's Human Rights",
+            "title": "Women's Human Rights (Blended)",
             "rating": {
                 "rating": 3.5,
                 "reviews": 11,
@@ -14736,7 +16779,7 @@ abbott = {
                 "fee": "",
                 "restrict": "",
                 "exclusive": "",
-                "blended": "",
+                "blended": true,
                 "intensive": ""
             },
             "schedule": {
@@ -14749,9 +16792,13 @@ abbott = {
         },
         {
             "section": "00036",
-            "teacher": "Steven Sych",
-            "title": "World Views",
-            "rating": "DNE",
+            "teacher": "Ful Massimi",
+            "title": "Queer World Views",
+            "rating": {
+                "rating": 5,
+                "reviews": 8,
+                "link": "https://www.ratemyprofessors.com/professor/2701338"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -14776,7 +16823,7 @@ abbott = {
             "title": "Science and Ideology",
             "rating": {
                 "rating": 3.4,
-                "reviews": 3,
+                "reviews": 4,
                 "link": "https://www.ratemyprofessors.com/professor/2769575"
             },
             "lab": {},
@@ -14801,7 +16848,7 @@ abbott = {
             "title": "Mythology",
             "rating": {
                 "rating": 4.8,
-                "reviews": 10,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2690434"
             },
             "lab": {},
@@ -14826,7 +16873,7 @@ abbott = {
             "title": "Dark Fiction",
             "rating": {
                 "rating": 5,
-                "reviews": 16,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/1974602"
             },
             "lab": {},
@@ -14851,7 +16898,7 @@ abbott = {
             "title": "Dark Fiction",
             "rating": {
                 "rating": 5,
-                "reviews": 16,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/1974602"
             },
             "lab": {},
@@ -14876,7 +16923,7 @@ abbott = {
             "title": "Introduction to Literature",
             "rating": {
                 "rating": 3.6,
-                "reviews": 19,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2499134"
             },
             "lab": {},
@@ -14972,9 +17019,13 @@ abbott = {
         },
         {
             "section": "00007",
-            "teacher": "To Be Announced",
-            "title": "Introduction to College English",
-            "rating": "DNE",
+            "teacher": "Kaitlynn McCuaig",
+            "title": "The Classic and the Contemporary",
+            "rating": {
+                "rating": 4.9,
+                "reviews": 4,
+                "link": "https://www.ratemyprofessors.com/professor/2756088"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -15171,8 +17222,8 @@ abbott = {
             "teacher": "Kirsty Campbell",
             "title": "Introduction to Literature",
             "rating": {
-                "rating": 4,
-                "reviews": 1,
+                "rating": 3,
+                "reviews": 2,
                 "link": "https://www.ratemyprofessors.com/professor/2503109"
             },
             "lab": {},
@@ -15196,8 +17247,8 @@ abbott = {
             "teacher": "Kirsty Campbell",
             "title": "Introduction to Literature",
             "rating": {
-                "rating": 4,
-                "reviews": 1,
+                "rating": 3,
+                "reviews": 2,
                 "link": "https://www.ratemyprofessors.com/professor/2503109"
             },
             "lab": {},
@@ -15246,8 +17297,8 @@ abbott = {
             "teacher": "William McClelland",
             "title": "The American South & Other Sites of Injustice",
             "rating": {
-                "rating": 3.9,
-                "reviews": 18,
+                "rating": 4,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/2497905"
             },
             "lab": {},
@@ -15446,8 +17497,8 @@ abbott = {
             "teacher": "Nazareth Arabaghian",
             "title": "Close Reading",
             "rating": {
-                "rating": 3.5,
-                "reviews": 13,
+                "rating": 3.6,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2499581"
             },
             "lab": {},
@@ -15471,8 +17522,8 @@ abbott = {
             "teacher": "Nazareth Arabaghian",
             "title": "Close Reading",
             "rating": {
-                "rating": 3.5,
-                "reviews": 13,
+                "rating": 3.6,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2499581"
             },
             "lab": {},
@@ -15559,11 +17610,11 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "",
-                "T": "1430-1630",
+                "M": "1530-1730",
+                "T": "",
                 "W": "",
-                "R": "",
-                "F": "1430-1630"
+                "R": "1530-1730",
+                "F": ""
             }
         },
         {
@@ -15572,7 +17623,7 @@ abbott = {
             "title": "Introduction to Literature",
             "rating": {
                 "rating": 3.6,
-                "reviews": 19,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2499134"
             },
             "lab": {},
@@ -15597,7 +17648,7 @@ abbott = {
             "title": "Intelligence: From IQ to AI",
             "rating": {
                 "rating": 4,
-                "reviews": 13,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2509178"
             },
             "lab": {},
@@ -15618,9 +17669,13 @@ abbott = {
         },
         {
             "section": "00034",
-            "teacher": "To Be Announced",
-            "title": "Introduction to College English",
-            "rating": "DNE",
+            "teacher": "Kaitlynn McCuaig",
+            "title": "The Classic and the Contemporary",
+            "rating": {
+                "rating": 4.9,
+                "reviews": 4,
+                "link": "https://www.ratemyprofessors.com/professor/2756088"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -15643,7 +17698,7 @@ abbott = {
             "title": "Intelligence: From IQ to AI",
             "rating": {
                 "rating": 4,
-                "reviews": 13,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2509178"
             },
             "lab": {},
@@ -15668,7 +17723,7 @@ abbott = {
             "title": "Reading Reality",
             "rating": {
                 "rating": 5,
-                "reviews": 3,
+                "reviews": 4,
                 "link": "https://www.ratemyprofessors.com/professor/2814357"
             },
             "lab": {},
@@ -15693,7 +17748,7 @@ abbott = {
             "title": "Reading Reality",
             "rating": {
                 "rating": 5,
-                "reviews": 3,
+                "reviews": 4,
                 "link": "https://www.ratemyprofessors.com/professor/2814357"
             },
             "lab": {},
@@ -15717,8 +17772,8 @@ abbott = {
             "teacher": "Anna Sigg",
             "title": "The De(con)struction of Words and Worlds (Blended)",
             "rating": {
-                "rating": 4.5,
-                "reviews": 2,
+                "rating": 4.4,
+                "reviews": 3,
                 "link": "https://www.ratemyprofessors.com/professor/2510426"
             },
             "lab": {},
@@ -15742,8 +17797,8 @@ abbott = {
             "teacher": "Anna Sigg",
             "title": "The De(con)struction of Words and Worlds (Blended)",
             "rating": {
-                "rating": 4.5,
-                "reviews": 2,
+                "rating": 4.4,
+                "reviews": 3,
                 "link": "https://www.ratemyprofessors.com/professor/2510426"
             },
             "lab": {},
@@ -15842,8 +17897,8 @@ abbott = {
             "teacher": "William McClelland",
             "title": "The American South & Other Sites of Injustice",
             "rating": {
-                "rating": 3.9,
-                "reviews": 18,
+                "rating": 4,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/2497905"
             },
             "lab": {},
@@ -15914,13 +17969,9 @@ abbott = {
         },
         {
             "section": "00047",
-            "teacher": "Carousel Calvo",
-            "title": "Navigating Displacement and Belonging",
-            "rating": {
-                "rating": 4.3,
-                "reviews": 4,
-                "link": "https://www.ratemyprofessors.com/professor/2736558"
-            },
+            "teacher": "Colby Gillette",
+            "title": "You Must Change Your Life",
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -15930,11 +17981,11 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "",
-                "T": "1430-1630",
-                "W": "",
+                "M": "1230-1430",
+                "T": "",
+                "W": "1230-1430",
                 "R": "",
-                "F": "1430-1630"
+                "F": ""
             }
         },
         {
@@ -15942,8 +17993,8 @@ abbott = {
             "teacher": "Yael Margalit",
             "title": "Labyrinths",
             "rating": {
-                "rating": 2.9,
-                "reviews": 13,
+                "rating": 3,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2616848"
             },
             "lab": {},
@@ -15968,7 +18019,7 @@ abbott = {
             "title": "Theatre Workshop",
             "rating": {
                 "rating": 5,
-                "reviews": 15,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/2498208"
             },
             "lab": {},
@@ -16019,8 +18070,8 @@ abbott = {
             "teacher": "Nazareth Arabaghian",
             "title": "18th & 19th Century Literature (LA)",
             "rating": {
-                "rating": 3.5,
-                "reviews": 13,
+                "rating": 3.6,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2499581"
             },
             "lab": {},
@@ -16045,7 +18096,7 @@ abbott = {
             "title": "Generational Stories",
             "rating": {
                 "rating": 5,
-                "reviews": 3,
+                "reviews": 4,
                 "link": "https://www.ratemyprofessors.com/professor/2814357"
             },
             "lab": {},
@@ -16144,8 +18195,8 @@ abbott = {
             "teacher": "William McClelland",
             "title": "Forbidden Knowledge",
             "rating": {
-                "rating": 3.9,
-                "reviews": 18,
+                "rating": 4,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/2497905"
             },
             "lab": {},
@@ -16245,7 +18296,7 @@ abbott = {
             "title": "Werewolves!",
             "rating": {
                 "rating": 5,
-                "reviews": 16,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/1974602"
             },
             "lab": {},
@@ -16344,8 +18395,8 @@ abbott = {
             "teacher": "Yael Margalit",
             "title": "Shakespeare & Company (Blended)",
             "rating": {
-                "rating": 2.9,
-                "reviews": 13,
+                "rating": 3,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2616848"
             },
             "lab": {},
@@ -16369,8 +18420,8 @@ abbott = {
             "teacher": "Yael Margalit",
             "title": "Shakespeare & Company (Blended)",
             "rating": {
-                "rating": 2.9,
-                "reviews": 13,
+                "rating": 3,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2616848"
             },
             "lab": {},
@@ -16394,8 +18445,8 @@ abbott = {
             "teacher": "Ragne Raceviciute",
             "title": "Coyote Dreams",
             "rating": {
-                "rating": 1.4,
-                "reviews": 7,
+                "rating": 1.5,
+                "reviews": 8,
                 "link": "https://www.ratemyprofessors.com/professor/2662439"
             },
             "lab": {},
@@ -16544,8 +18595,8 @@ abbott = {
             "teacher": "Jennifer Beauvais",
             "title": "Literary Themes",
             "rating": {
-                "rating": 3.9,
-                "reviews": 5,
+                "rating": 3.6,
+                "reviews": 6,
                 "link": "https://www.ratemyprofessors.com/professor/2664713"
             },
             "lab": {},
@@ -16594,8 +18645,8 @@ abbott = {
             "teacher": "Ragne Raceviciute",
             "title": "Coyote Dreams",
             "rating": {
-                "rating": 1.4,
-                "reviews": 7,
+                "rating": 1.5,
+                "reviews": 8,
                 "link": "https://www.ratemyprofessors.com/professor/2662439"
             },
             "lab": {},
@@ -16683,7 +18734,7 @@ abbott = {
             "title": "Theatre Workshop",
             "rating": {
                 "rating": 3.6,
-                "reviews": 19,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2499134"
             },
             "lab": {},
@@ -16724,6 +18775,56 @@ abbott = {
                 "T": "",
                 "W": "0800-1200",
                 "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00060",
+            "teacher": "Jennifer Beauvais",
+            "title": "Literary Themes",
+            "rating": {
+                "rating": 3.6,
+                "reviews": 6,
+                "link": "https://www.ratemyprofessors.com/professor/2664713"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1030-1230",
+                "R": "",
+                "F": "1030-1230"
+            }
+        },
+        {
+            "section": "00061",
+            "teacher": "Anna Lepine",
+            "title": "Literary Themes",
+            "rating": {
+                "rating": 4.5,
+                "reviews": 10,
+                "link": "https://www.ratemyprofessors.com/professor/1864951"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1230-1430",
+                "W": "",
+                "R": "1230-1430",
                 "F": ""
             }
         },
@@ -16913,8 +19014,8 @@ abbott = {
             "teacher": "Eric Laferriere",
             "title": "Modern philosophy",
             "rating": {
-                "rating": 2.1,
-                "reviews": 12,
+                "rating": 2.5,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/2656046"
             },
             "lab": {},
@@ -17037,9 +19138,13 @@ abbott = {
         },
         {
             "section": "00003",
-            "teacher": "To Be Announced",
+            "teacher": "Colleen Leonard",
             "title": "Universe of the Arts 1",
-            "rating": "DNE",
+            "rating": {
+                "rating": 4,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2817950"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -17058,9 +19163,13 @@ abbott = {
         },
         {
             "section": "00004",
-            "teacher": "To Be Announced",
+            "teacher": "Colleen Leonard",
             "title": "Universe of the Arts 1",
-            "rating": "DNE",
+            "rating": {
+                "rating": 4,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2817950"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -17104,7 +19213,7 @@ abbott = {
             "title": "Universe of the Arts 1",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/1393759"
             },
             "lab": {},
@@ -17338,7 +19447,7 @@ abbott = {
     "585-DR1-AB": [
         {
             "section": "00001",
-            "teacher": "Bettina Hoffmann",
+            "teacher": "Michael Wees",
             "title": "Darkroom Photography 1",
             "rating": "DNE",
             "lab": {},
@@ -17359,7 +19468,7 @@ abbott = {
         },
         {
             "section": "00002",
-            "teacher": "Bettina Hoffmann",
+            "teacher": "Michael Wees",
             "title": "Darkroom Photography 1",
             "rating": "DNE",
             "lab": {},
@@ -17434,9 +19543,13 @@ abbott = {
     "530-DG1-AB": [
         {
             "section": "00001",
-            "teacher": "Fr\u00e9d\u00e9rick Belzile",
+            "teacher": "Pavitra Wickramasinghe",
             "title": "Digital Media 1",
-            "rating": "DNE",
+            "rating": {
+                "rating": 0,
+                "reviews": 0,
+                "link": "https://www.ratemyprofessors.com/professor/2856235"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -17476,7 +19589,7 @@ abbott = {
         },
         {
             "section": "00003",
-            "teacher": "Nicole Forrest",
+            "teacher": "Mitchell Stafiej",
             "title": "Digital Media 1",
             "rating": "DNE",
             "lab": {},
@@ -17543,9 +19656,13 @@ abbott = {
     "585-DPA-AB": [
         {
             "section": "00001",
-            "teacher": "To Be Announced",
+            "teacher": "Colleen Leonard",
             "title": "Digital Photography 1",
-            "rating": "DNE",
+            "rating": {
+                "rating": 4,
+                "reviews": 1,
+                "link": "https://www.ratemyprofessors.com/professor/2817950"
+            },
             "lab": {},
             "details": {
                 "fee": 20,
@@ -17641,7 +19758,7 @@ abbott = {
             "title": "Creative Writing B",
             "rating": {
                 "rating": 3.4,
-                "reviews": 3,
+                "reviews": 4,
                 "link": "https://www.ratemyprofessors.com/professor/2769575"
             },
             "lab": {},
@@ -17668,7 +19785,7 @@ abbott = {
             "title": "Journalism 1",
             "rating": {
                 "rating": 4.3,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2487261"
             },
             "lab": {},
@@ -17688,11 +19805,11 @@ abbott = {
             }
         }
     ],
-    "603-PTY-AB": [
+    "603-EP1-AB": [
         {
             "section": "00001",
             "teacher": "Thomas Abray",
-            "title": "The poem",
+            "title": "English Literature: The Poem",
             "rating": "DNE",
             "lab": {},
             "details": {
@@ -17796,8 +19913,8 @@ abbott = {
             "teacher": "Clea Notar",
             "title": "Intro. to Film as Art",
             "rating": {
-                "rating": 4.5,
-                "reviews": 6,
+                "rating": 4.6,
+                "reviews": 7,
                 "link": "https://www.ratemyprofessors.com/professor/2497890"
             },
             "lab": {},
@@ -17821,8 +19938,8 @@ abbott = {
             "teacher": "Clea Notar",
             "title": "Intro. to Film as Art",
             "rating": {
-                "rating": 4.5,
-                "reviews": 6,
+                "rating": 4.6,
+                "reviews": 7,
                 "link": "https://www.ratemyprofessors.com/professor/2497890"
             },
             "lab": {},
@@ -17848,8 +19965,8 @@ abbott = {
             "teacher": "Clea Notar",
             "title": "Film studies: World Cinema",
             "rating": {
-                "rating": 4.5,
-                "reviews": 6,
+                "rating": 4.6,
+                "reviews": 7,
                 "link": "https://www.ratemyprofessors.com/professor/2497890"
             },
             "lab": {},
@@ -18230,7 +20347,7 @@ abbott = {
             "title": "Spanish 1",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "lab": {},
@@ -18255,7 +20372,7 @@ abbott = {
             "title": "Spanish 1",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "lab": {},
@@ -18280,7 +20397,7 @@ abbott = {
             "title": "Spanish 1",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "lab": {},
@@ -18414,7 +20531,7 @@ abbott = {
             "title": "Spanish 3",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "lab": {},
@@ -18462,13 +20579,9 @@ abbott = {
         },
         {
             "section": "00002",
-            "teacher": "Anne Golden",
+            "teacher": "Mitchell Stafiej",
             "title": "Media Studies: Visual Culture and Communications",
-            "rating": {
-                "rating": 5,
-                "reviews": 11,
-                "link": "https://www.ratemyprofessors.com/professor/2094453"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -18565,8 +20678,8 @@ abbott = {
             "teacher": "Grace Lin",
             "title": "World Religions",
             "rating": {
-                "rating": 3,
-                "reviews": 1,
+                "rating": 4,
+                "reviews": 2,
                 "link": "https://www.ratemyprofessors.com/professor/2888286"
             },
             "lab": {},
@@ -18589,9 +20702,13 @@ abbott = {
     "585-SW1-AB": [
         {
             "section": "00001",
-            "teacher": "Nicole Forrest",
+            "teacher": "Sami Zenderoudi",
             "title": "Screenwriting 1",
-            "rating": "DNE",
+            "rating": {
+                "rating": 0,
+                "reviews": 0,
+                "link": "https://www.ratemyprofessors.com/professor/2817689"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -19122,12 +21239,12 @@ abbott = {
         },
         {
             "section": "00003",
-            "teacher": "Gabriel Herta",
+            "teacher": "Gustavo Felisberto-Valente",
             "title": "Remedial Activities for Secondary V Mathematics: Technical a",
             "rating": {
-                "rating": 2.8,
-                "reviews": 6,
-                "link": "https://www.ratemyprofessors.com/professor/2694091"
+                "rating": 1.5,
+                "reviews": 8,
+                "link": "https://www.ratemyprofessors.com/professor/2835171"
             },
             "lab": {},
             "details": {
@@ -19150,7 +21267,7 @@ abbott = {
             "teacher": "Richard Squire",
             "title": "Remedial Activities for Secondary V Mathematics: Technical a",
             "rating": {
-                "rating": 1.8,
+                "rating": 1.6,
                 "reviews": 24,
                 "link": "https://www.ratemyprofessors.com/professor/1156686"
             },
@@ -19171,6 +21288,54 @@ abbott = {
             }
         }
     ],
+    "105-SSS-AB": [
+        {
+            "section": "00001",
+            "teacher": "Gustavo Felisberto-Valente",
+            "title": "Strategies for Success in the Sciences",
+            "rating": {
+                "rating": 1.5,
+                "reviews": 8,
+                "link": "https://www.ratemyprofessors.com/professor/2835171"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "1000-1130",
+                "T": "",
+                "W": "1000-1130",
+                "R": "",
+                "F": ""
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "To Be Announced",
+            "title": "Strategies for Success in the Sciences",
+            "rating": "DNE",
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "0830-1000",
+                "T": "",
+                "W": "0830-1000",
+                "R": "",
+                "F": ""
+            }
+        }
+    ],
     "360-103-AB": [
         {
             "section": "00001",
@@ -19178,7 +21343,7 @@ abbott = {
             "title": "Career Explorations",
             "rating": {
                 "rating": 3.8,
-                "reviews": 12,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2499834"
             },
             "lab": {},
@@ -19191,10 +21356,35 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1000-1130",
+                "T": "1600-1730",
                 "W": "",
-                "R": "1000-1130",
+                "R": "1600-1730",
                 "F": ""
+            }
+        },
+        {
+            "section": "00002",
+            "teacher": "Magda Fahmy",
+            "title": "Career Explorations",
+            "rating": {
+                "rating": 0,
+                "reviews": 0,
+                "link": "https://www.ratemyprofessors.com/professor/2873752"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "0830-1000",
+                "R": "",
+                "F": "0830-1000"
             }
         }
     ],
@@ -19228,19 +21418,19 @@ abbott = {
     "203-001-RE": [
         {
             "section": "00001",
-            "teacher": "Maria Mastorakos",
+            "teacher": "Omar Melhem",
             "title": "Remedial Activities for Secondary V Physics",
             "rating": {
-                "rating": 4.2,
-                "reviews": 5,
-                "link": "https://www.ratemyprofessors.com/professor/2498552"
+                "rating": 3.4,
+                "reviews": 13,
+                "link": "https://www.ratemyprofessors.com/professor/2773125"
             },
             "lab": {
-                "teacher": "Maria Mastorakos",
+                "teacher": "Omar Melhem",
                 "rating": {
-                    "rating": 4.2,
-                    "reviews": 5,
-                    "link": "https://www.ratemyprofessors.com/professor/2498552"
+                    "rating": 3.4,
+                    "reviews": 13,
+                    "link": "https://www.ratemyprofessors.com/professor/2773125"
                 }
             },
             "details": {
@@ -19260,19 +21450,19 @@ abbott = {
         },
         {
             "section": "00002",
-            "teacher": "Maria Mastorakos",
+            "teacher": "Omar Melhem",
             "title": "Remedial Activities for Secondary V Physics",
             "rating": {
-                "rating": 4.2,
-                "reviews": 5,
-                "link": "https://www.ratemyprofessors.com/professor/2498552"
+                "rating": 3.4,
+                "reviews": 13,
+                "link": "https://www.ratemyprofessors.com/professor/2773125"
             },
             "lab": {
-                "teacher": "Maria Mastorakos",
+                "teacher": "Omar Melhem",
                 "rating": {
-                    "rating": 4.2,
-                    "reviews": 5,
-                    "link": "https://www.ratemyprofessors.com/professor/2498552"
+                    "rating": 3.4,
+                    "reviews": 13,
+                    "link": "https://www.ratemyprofessors.com/professor/2773125"
                 }
             },
             "details": {
@@ -19296,11 +21486,7 @@ abbott = {
             "section": "00001",
             "teacher": "Nicole Hoop",
             "title": "Preparation for College English",
-            "rating": {
-                "rating": 4.8,
-                "reviews": 3,
-                "link": "https://www.ratemyprofessors.com/professor/2769573"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -19324,8 +21510,8 @@ abbott = {
             "teacher": "Elaine Pare",
             "title": "House and Home",
             "rating": {
-                "rating": 4.3,
-                "reviews": 14,
+                "rating": 4.4,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/1724001"
             },
             "lab": {},
@@ -19521,11 +21707,11 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "1230-1430",
-                "T": "",
-                "W": "1230-1430",
+                "M": "",
+                "T": "1430-1630",
+                "W": "",
                 "R": "",
-                "F": ""
+                "F": "1430-1630"
             }
         },
         {
@@ -19560,8 +21746,8 @@ abbott = {
             "teacher": "Elaine Pare",
             "title": "The Young Adult Novel",
             "rating": {
-                "rating": 4.3,
-                "reviews": 14,
+                "rating": 4.4,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/1724001"
             },
             "lab": {},
@@ -19636,7 +21822,7 @@ abbott = {
             "title": "The Poetics of Popular Music",
             "rating": {
                 "rating": 5,
-                "reviews": 15,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/2498208"
             },
             "lab": {},
@@ -19657,12 +21843,12 @@ abbott = {
         },
         {
             "section": "00005",
-            "teacher": "Adil D'Sousa",
-            "title": "Superheroes and Comics",
+            "teacher": "Kaitlynn McCuaig",
+            "title": "Hauntology and the Ghost Story",
             "rating": {
-                "rating": 5,
+                "rating": 4.9,
                 "reviews": 4,
-                "link": "https://www.ratemyprofessors.com/professor/2501907"
+                "link": "https://www.ratemyprofessors.com/professor/2756088"
             },
             "lab": {},
             "details": {
@@ -19673,11 +21859,11 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "",
+                "M": "1430-1630",
                 "T": "",
                 "W": "1430-1630",
                 "R": "",
-                "F": "1430-1630"
+                "F": ""
             }
         },
         {
@@ -19686,7 +21872,7 @@ abbott = {
             "title": "The Poetics of Popular Music",
             "rating": {
                 "rating": 5,
-                "reviews": 15,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/2498208"
             },
             "lab": {},
@@ -19758,7 +21944,7 @@ abbott = {
         {
             "section": "00009",
             "teacher": "Finn Purcell",
-            "title": "Literary Genres",
+            "title": "Transforming Texts: Adaptations and Resistance",
             "rating": {
                 "rating": 4.3,
                 "reviews": 21,
@@ -19885,8 +22071,8 @@ abbott = {
             "teacher": "Elaine Pare",
             "title": "The Young Adult Novel",
             "rating": {
-                "rating": 4.3,
-                "reviews": 14,
+                "rating": 4.4,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/1724001"
             },
             "lab": {},
@@ -19935,8 +22121,8 @@ abbott = {
             "teacher": "Anna Sigg",
             "title": "Trauma and the Modern Tragic (Blended)",
             "rating": {
-                "rating": 4.5,
-                "reviews": 2,
+                "rating": 4.4,
+                "reviews": 3,
                 "link": "https://www.ratemyprofessors.com/professor/2510426"
             },
             "lab": {},
@@ -19985,8 +22171,8 @@ abbott = {
             "teacher": "Jennifer Beauvais",
             "title": "Writing Tutors & Time Travel",
             "rating": {
-                "rating": 3.9,
-                "reviews": 5,
+                "rating": 3.6,
+                "reviews": 6,
                 "link": "https://www.ratemyprofessors.com/professor/2664713"
             },
             "lab": {},
@@ -20061,11 +22247,7 @@ abbott = {
             "section": "00002",
             "teacher": "Nicole Hoop",
             "title": "Persuasive Writing",
-            "rating": {
-                "rating": 4.8,
-                "reviews": 3,
-                "link": "https://www.ratemyprofessors.com/professor/2769573"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -20205,7 +22387,7 @@ abbott = {
             "title": "Literature and the City (Blended)",
             "rating": {
                 "rating": 4.3,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2487261"
             },
             "lab": {},
@@ -20230,7 +22412,7 @@ abbott = {
             "title": "Literature and the City (Blended)",
             "rating": {
                 "rating": 4.3,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/2487261"
             },
             "lab": {},
@@ -20255,7 +22437,7 @@ abbott = {
             "title": "Literary Theory",
             "rating": {
                 "rating": 4.8,
-                "reviews": 10,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2690434"
             },
             "lab": {},
@@ -20280,7 +22462,7 @@ abbott = {
             "title": "Literary Theory",
             "rating": {
                 "rating": 4.8,
-                "reviews": 10,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/2690434"
             },
             "lab": {},
@@ -20303,11 +22485,7 @@ abbott = {
             "section": "00012",
             "teacher": "Nicole Hoop",
             "title": "Persuasive Writing",
-            "rating": {
-                "rating": 4.8,
-                "reviews": 3,
-                "link": "https://www.ratemyprofessors.com/professor/2769573"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -20330,7 +22508,7 @@ abbott = {
             "title": "Volunteers Course",
             "rating": {
                 "rating": 4,
-                "reviews": 13,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/2509178"
             },
             "lab": {},
@@ -20394,6 +22572,56 @@ abbott = {
                 "R": "1230-1630",
                 "F": ""
             }
+        },
+        {
+            "section": "00060",
+            "teacher": "Jennifer Beauvais",
+            "title": "Forms of Discourse",
+            "rating": {
+                "rating": 3.6,
+                "reviews": 6,
+                "link": "https://www.ratemyprofessors.com/professor/2664713"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1030-1230",
+                "R": "",
+                "F": "1030-1230"
+            }
+        },
+        {
+            "section": "00061",
+            "teacher": "Anna Lepine",
+            "title": "Forms of Discourse",
+            "rating": {
+                "rating": 4.5,
+                "reviews": 10,
+                "link": "https://www.ratemyprofessors.com/professor/1864951"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1230-1430",
+                "W": "",
+                "R": "1230-1430",
+                "F": ""
+            }
         }
     ],
     "602-011-AB": [
@@ -20429,8 +22657,8 @@ abbott = {
             "teacher": "Proshat Hemmati",
             "title": "Pratique du fran\u00e7ais, langue seconde",
             "rating": {
-                "rating": 2.9,
-                "reviews": 8,
+                "rating": 3,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2498656"
             },
             "lab": {},
@@ -20507,7 +22735,7 @@ abbott = {
             "title": "Mise \u00e0 niveau pour fran\u00e7ais langue seconde",
             "rating": {
                 "rating": 2,
-                "reviews": 4,
+                "reviews": 5,
                 "link": "https://www.ratemyprofessors.com/professor/2497950"
             },
             "lab": {},
@@ -20584,7 +22812,7 @@ abbott = {
             "title": "Mise \u00e0 niveau pour fran\u00e7ais langue seconde",
             "rating": {
                 "rating": 2,
-                "reviews": 4,
+                "reviews": 5,
                 "link": "https://www.ratemyprofessors.com/professor/2497950"
             },
             "lab": {},
@@ -20758,8 +22986,8 @@ abbott = {
             "teacher": "Proshat Hemmati",
             "title": "Litt\u00e9rature et univers narratif",
             "rating": {
-                "rating": 2.9,
-                "reviews": 8,
+                "rating": 3,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2498656"
             },
             "lab": {},
@@ -20850,8 +23078,8 @@ abbott = {
             "teacher": "David Boutin",
             "title": "Litt\u00e9rature et univers narratif",
             "rating": {
-                "rating": 3.9,
-                "reviews": 8,
+                "rating": 4,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/1629541"
             },
             "lab": {},
@@ -20900,8 +23128,8 @@ abbott = {
             "teacher": "David Boutin",
             "title": "Litt\u00e9rature et univers narratif",
             "rating": {
-                "rating": 3.9,
-                "reviews": 8,
+                "rating": 4,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/1629541"
             },
             "lab": {},
@@ -20925,8 +23153,8 @@ abbott = {
             "teacher": "Proshat Hemmati",
             "title": "Litt\u00e9rature et univers narratif",
             "rating": {
-                "rating": 2.9,
-                "reviews": 8,
+                "rating": 3,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2498656"
             },
             "lab": {},
@@ -21149,7 +23377,7 @@ abbott = {
             "title": "Fran\u00e7ais niveau 1",
             "rating": {
                 "rating": 2,
-                "reviews": 4,
+                "reviews": 5,
                 "link": "https://www.ratemyprofessors.com/professor/2497950"
             },
             "lab": {},
@@ -21174,7 +23402,7 @@ abbott = {
             "title": "Fran\u00e7ais niveau 1",
             "rating": {
                 "rating": 2,
-                "reviews": 4,
+                "reviews": 5,
                 "link": "https://www.ratemyprofessors.com/professor/2497950"
             },
             "lab": {},
@@ -21428,7 +23656,7 @@ abbott = {
             "title": "Fran\u00e7ais niveau 3",
             "rating": {
                 "rating": 2,
-                "reviews": 4,
+                "reviews": 5,
                 "link": "https://www.ratemyprofessors.com/professor/2497950"
             },
             "lab": {},
@@ -21671,8 +23899,8 @@ abbott = {
             "teacher": "Robert Inch",
             "title": "Fran\u00e7ais niveau 4",
             "rating": {
-                "rating": 2.4,
-                "reviews": 9,
+                "rating": 2.5,
+                "reviews": 10,
                 "link": "https://www.ratemyprofessors.com/professor/2760458"
             },
             "lab": {},
@@ -21696,8 +23924,8 @@ abbott = {
             "teacher": "Robert Inch",
             "title": "Fran\u00e7ais niveau 4",
             "rating": {
-                "rating": 2.4,
-                "reviews": 9,
+                "rating": 2.5,
+                "reviews": 10,
                 "link": "https://www.ratemyprofessors.com/professor/2760458"
             },
             "lab": {},
@@ -21940,8 +24168,8 @@ abbott = {
             "teacher": "Sylvie Mariage",
             "title": "Fran\u00e7ais niveau 3",
             "rating": {
-                "rating": 4,
-                "reviews": 8,
+                "rating": 4.1,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2497888"
             },
             "lab": {},
@@ -21965,8 +24193,8 @@ abbott = {
             "teacher": "Sylvie Mariage",
             "title": "Fran\u00e7ais niveau 3",
             "rating": {
-                "rating": 4,
-                "reviews": 8,
+                "rating": 4.1,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2497888"
             },
             "lab": {},
@@ -22038,8 +24266,8 @@ abbott = {
             "teacher": "Robert Inch",
             "title": "Fran\u00e7ais niveau 4",
             "rating": {
-                "rating": 2.4,
-                "reviews": 9,
+                "rating": 2.5,
+                "reviews": 10,
                 "link": "https://www.ratemyprofessors.com/professor/2760458"
             },
             "lab": {},
@@ -22063,8 +24291,8 @@ abbott = {
             "teacher": "David Boutin",
             "title": "Linguistique, stylistique et \u00e9tymologie",
             "rating": {
-                "rating": 3.9,
-                "reviews": 8,
+                "rating": 4,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/1629541"
             },
             "lab": {},
@@ -22088,8 +24316,8 @@ abbott = {
             "teacher": "Robert Inch",
             "title": "Fran\u00e7ais niveau 4",
             "rating": {
-                "rating": 2.4,
-                "reviews": 9,
+                "rating": 2.5,
+                "reviews": 10,
                 "link": "https://www.ratemyprofessors.com/professor/2760458"
             },
             "lab": {},
@@ -22163,8 +24391,8 @@ abbott = {
             "teacher": "Sylvie Mariage",
             "title": "Condition f\u00e9minine",
             "rating": {
-                "rating": 4,
-                "reviews": 8,
+                "rating": 4.1,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2497888"
             },
             "lab": {},
@@ -22188,8 +24416,8 @@ abbott = {
             "teacher": "David Boutin",
             "title": "Linguistique, stylistique et \u00e9tymologie",
             "rating": {
-                "rating": 3.9,
-                "reviews": 8,
+                "rating": 4,
+                "reviews": 11,
                 "link": "https://www.ratemyprofessors.com/professor/1629541"
             },
             "lab": {},
@@ -22318,7 +24546,7 @@ abbott = {
             "title": "Image Ethics",
             "rating": {
                 "rating": 2.9,
-                "reviews": 15,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/2498155"
             },
             "lab": {},
@@ -22380,6 +24608,31 @@ abbott = {
                 "T": "",
                 "W": "",
                 "R": "1430-1730",
+                "F": ""
+            }
+        },
+        {
+            "section": "00004",
+            "teacher": "Ful Massimi",
+            "title": "Image Ethics (Blended)",
+            "rating": {
+                "rating": 5,
+                "reviews": 8,
+                "link": "https://www.ratemyprofessors.com/professor/2701338"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "",
+                "exclusive": "",
+                "blended": true,
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "1430-1730",
+                "W": "",
+                "R": "",
                 "F": ""
             }
         }
@@ -22652,31 +24905,6 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "1430-1730",
-                "W": "",
-                "R": "",
-                "F": ""
-            }
-        },
-        {
-            "section": "00003",
-            "teacher": "Sarwat Viqar",
-            "title": "Critical Issues for N. Millenium",
-            "rating": {
-                "rating": 2.1,
-                "reviews": 9,
-                "link": "https://www.ratemyprofessors.com/professor/1967861"
-            },
-            "lab": {},
-            "details": {
-                "fee": "",
-                "restrict": "",
-                "exclusive": "",
-                "blended": "",
-                "intensive": ""
-            },
-            "schedule": {
-                "M": "",
                 "T": "",
                 "W": "1430-1730",
                 "R": "",
@@ -22684,7 +24912,7 @@ abbott = {
             }
         },
         {
-            "section": "00004",
+            "section": "00003",
             "teacher": "Thomas Young",
             "title": "Environmental Ethics",
             "rating": {
@@ -22709,7 +24937,7 @@ abbott = {
             }
         },
         {
-            "section": "00005",
+            "section": "00004",
             "teacher": "Thomas Young",
             "title": "Environmental Ethics",
             "rating": {
@@ -22734,7 +24962,7 @@ abbott = {
             }
         },
         {
-            "section": "00006",
+            "section": "00005",
             "teacher": "Thomas Young",
             "title": "Environmental Ethics",
             "rating": {
@@ -22759,7 +24987,7 @@ abbott = {
             }
         },
         {
-            "section": "00007",
+            "section": "00006",
             "teacher": "Jenny Cockburn",
             "title": "Environmental Ethics -- On Food",
             "rating": {
@@ -22784,7 +25012,7 @@ abbott = {
             }
         },
         {
-            "section": "00008",
+            "section": "00007",
             "teacher": "Jenny Cockburn",
             "title": "Environmental Ethics -- On Food",
             "rating": {
@@ -22809,7 +25037,7 @@ abbott = {
             }
         },
         {
-            "section": "00009",
+            "section": "00008",
             "teacher": "Kelly McKinney",
             "title": "Sustainable Campus (Climate Ch.)",
             "rating": {
@@ -22834,7 +25062,7 @@ abbott = {
             }
         },
         {
-            "section": "00010",
+            "section": "00009",
             "teacher": "Kelly McKinney",
             "title": "Sustainable Campus (Climate Ch.)",
             "rating": {
@@ -23040,8 +25268,8 @@ abbott = {
             "teacher": "Sasan Ghinani",
             "title": "Introduction to Outdoor Activities",
             "rating": {
-                "rating": 4.5,
-                "reviews": 5,
+                "rating": 4.6,
+                "reviews": 6,
                 "link": "https://www.ratemyprofessors.com/professor/2498075"
             },
             "lab": {},
@@ -23065,8 +25293,8 @@ abbott = {
             "teacher": "Sasan Ghinani",
             "title": "Introduction to Outdoor Activities",
             "rating": {
-                "rating": 4.5,
-                "reviews": 5,
+                "rating": 4.6,
+                "reviews": 6,
                 "link": "https://www.ratemyprofessors.com/professor/2498075"
             },
             "lab": {},
@@ -23090,8 +25318,8 @@ abbott = {
             "teacher": "Sasan Ghinani",
             "title": "Introduction to Outdoor Activities",
             "rating": {
-                "rating": 4.5,
-                "reviews": 5,
+                "rating": 4.6,
+                "reviews": 6,
                 "link": "https://www.ratemyprofessors.com/professor/2498075"
             },
             "lab": {},
@@ -23246,7 +25474,7 @@ abbott = {
             },
             "lab": {},
             "details": {
-                "fee": 50,
+                "fee": 60,
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
@@ -23266,7 +25494,7 @@ abbott = {
             "title": "Dance Fitness",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498166"
             },
             "lab": {},
@@ -23291,7 +25519,7 @@ abbott = {
             "title": "Stand Up Paddleboard and Fitness",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498166"
             },
             "lab": {},
@@ -23316,7 +25544,7 @@ abbott = {
             "title": "Dance Fitness",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498166"
             },
             "lab": {},
@@ -23341,7 +25569,7 @@ abbott = {
             "title": "Introduction to Outdoor Activities",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498166"
             },
             "lab": {},
@@ -23554,7 +25782,7 @@ abbott = {
             "title": "Squash Fitness",
             "rating": {
                 "rating": 5,
-                "reviews": 10,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498742"
             },
             "lab": {},
@@ -23579,7 +25807,7 @@ abbott = {
             "title": "Squash Fitness",
             "rating": {
                 "rating": 5,
-                "reviews": 10,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498742"
             },
             "lab": {},
@@ -23604,7 +25832,7 @@ abbott = {
             "title": "Squash Fitness",
             "rating": {
                 "rating": 5,
-                "reviews": 10,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498742"
             },
             "lab": {},
@@ -23629,7 +25857,7 @@ abbott = {
             "title": "Introduction to Outdoor Activities",
             "rating": {
                 "rating": 5,
-                "reviews": 12,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2510425"
             },
             "lab": {},
@@ -23654,7 +25882,7 @@ abbott = {
             "title": "Introduction to Outdoor Activities",
             "rating": {
                 "rating": 5,
-                "reviews": 12,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2510425"
             },
             "lab": {},
@@ -23679,7 +25907,7 @@ abbott = {
             "title": "Fitness Conditioning",
             "rating": {
                 "rating": 5,
-                "reviews": 12,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2510425"
             },
             "lab": {},
@@ -23764,7 +25992,7 @@ abbott = {
         {
             "section": "00038",
             "teacher": "Genevi\u00e8ve Raymond-Parent",
-            "title": "Sustainable Fitness - Intensive August Class",
+            "title": "Sustainable Fitness - Aug.14-18 MTWRF 9:00-4:00",
             "rating": "DNE",
             "lab": {},
             "details": {
@@ -23772,14 +26000,14 @@ abbott = {
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
-                "intensive": "Intensive course: August 14-18"
+                "intensive": "Intensive course scheduled before classes begin - MTWRF, August 14 - 18 from 9:00-4:00."
             },
             "schedule": {
-                "M": "0900-1600",
-                "T": "0900-1600",
-                "W": "0900-1600",
-                "R": "0900-1600",
-                "F": "0900-1600"
+                "M": "",
+                "T": "",
+                "W": "",
+                "R": "1800-1900",
+                "F": ""
             }
         },
         {
@@ -23851,7 +26079,7 @@ abbott = {
             "title": "Introduction to Endurance Sports",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/1858720"
             },
             "lab": {},
@@ -23876,7 +26104,7 @@ abbott = {
             "title": "Racquets",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/1858720"
             },
             "lab": {},
@@ -23901,7 +26129,7 @@ abbott = {
             "title": "Team Sports",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/1858720"
             },
             "lab": {},
@@ -23926,7 +26154,7 @@ abbott = {
             "title": "Fitness Conditioning",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 20,
                 "link": "https://www.ratemyprofessors.com/professor/2498399"
             },
             "lab": {},
@@ -23951,7 +26179,7 @@ abbott = {
             "title": "Fitness Conditioning",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 20,
                 "link": "https://www.ratemyprofessors.com/professor/2498399"
             },
             "lab": {},
@@ -23976,7 +26204,7 @@ abbott = {
             "title": "Training for Athletic Performance",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 20,
                 "link": "https://www.ratemyprofessors.com/professor/2498399"
             },
             "lab": {},
@@ -24001,7 +26229,7 @@ abbott = {
             "title": "Martial Arts",
             "rating": {
                 "rating": 4.5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1858709"
             },
             "lab": {},
@@ -24026,7 +26254,7 @@ abbott = {
             "title": "Martial Arts",
             "rating": {
                 "rating": 4.5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1858709"
             },
             "lab": {},
@@ -24051,7 +26279,7 @@ abbott = {
             "title": "Martial Arts",
             "rating": {
                 "rating": 4.5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1858709"
             },
             "lab": {},
@@ -24067,7 +26295,7 @@ abbott = {
                 "T": "",
                 "W": "",
                 "R": "",
-                "F": "1030-1230"
+                "F": "1300-1500"
             }
         },
         {
@@ -24400,10 +26628,10 @@ abbott = {
         {
             "section": "00013",
             "teacher": "Bronwen Lloyd-Hughes",
-            "title": "Stand Up Paddleboard and Yoga - Intensive August Class",
+            "title": "Stand Up Paddleboard and Yoga - Aug.14-18 MTWRF 9:00-4:00",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498166"
             },
             "lab": {},
@@ -24412,15 +26640,14 @@ abbott = {
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
-                "intensive": "Intensive course: August 14-18 plus one weekend class Sept. 30. Must be comfortable in the pool and lake."
+                "intensive": "Intensive course scheduled before classes begin - MTWRF, August 14 - 18 from 9:00-4:00. plus one weekend class Sept. 30. Must be comfortable in the pool and lake."
             },
             "schedule": {
-                "M": "0900-1400",
-                "T": "0900-1400",
-                "W": "0900-1400",
-                "R": "0900-1400",
-                "F": "0900-1400",
-                "S": "0900-1400"
+                "M": "",
+                "T": "",
+                "W": "",
+                "R": "1800-1900",
+                "F": ""
             }
         },
         {
@@ -24429,7 +26656,7 @@ abbott = {
             "title": "Dance Styles",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498166"
             },
             "lab": {},
@@ -24454,7 +26681,7 @@ abbott = {
             "title": "Stand Up Paddleboard and Yoga",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498166"
             },
             "lab": {},
@@ -24621,7 +26848,7 @@ abbott = {
             "title": "Squash",
             "rating": {
                 "rating": 5,
-                "reviews": 10,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498742"
             },
             "lab": {},
@@ -24646,7 +26873,7 @@ abbott = {
             "title": "Squash",
             "rating": {
                 "rating": 5,
-                "reviews": 10,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498742"
             },
             "lab": {},
@@ -24692,7 +26919,7 @@ abbott = {
             "title": "Orienteering",
             "rating": {
                 "rating": 5,
-                "reviews": 12,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2510425"
             },
             "lab": {},
@@ -24717,7 +26944,7 @@ abbott = {
             "title": "Orienteering",
             "rating": {
                 "rating": 5,
-                "reviews": 12,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2510425"
             },
             "lab": {},
@@ -24742,7 +26969,7 @@ abbott = {
             "title": "Cricket",
             "rating": {
                 "rating": 5,
-                "reviews": 12,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2510425"
             },
             "lab": {},
@@ -24872,7 +27099,7 @@ abbott = {
             "title": "Badminton",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/1858720"
             },
             "lab": {},
@@ -24897,7 +27124,7 @@ abbott = {
             "title": "Badminton",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/1858720"
             },
             "lab": {},
@@ -24922,7 +27149,7 @@ abbott = {
             "title": "Volleyball",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 20,
                 "link": "https://www.ratemyprofessors.com/professor/2498399"
             },
             "lab": {},
@@ -24947,7 +27174,7 @@ abbott = {
             "title": "Volleyball",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 20,
                 "link": "https://www.ratemyprofessors.com/professor/2498399"
             },
             "lab": {},
@@ -24972,7 +27199,7 @@ abbott = {
             "title": "Martial Arts",
             "rating": {
                 "rating": 4.5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1858709"
             },
             "lab": {},
@@ -24997,7 +27224,7 @@ abbott = {
             "title": "Martial Arts",
             "rating": {
                 "rating": 4.5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1858709"
             },
             "lab": {},
@@ -25022,7 +27249,7 @@ abbott = {
             "title": "Volleyball",
             "rating": {
                 "rating": 4.5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1858709"
             },
             "lab": {},
@@ -25047,7 +27274,7 @@ abbott = {
             "title": "Volleyball",
             "rating": {
                 "rating": 4.5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1858709"
             },
             "lab": {},
@@ -25171,10 +27398,10 @@ abbott = {
         {
             "section": "00004",
             "teacher": "Sasan Ghinani",
-            "title": "Canoe Camping - Intensive August Class",
+            "title": "Canoe Camping - Aug.14-18 MTWRF 9:00-4:00",
             "rating": {
-                "rating": 4.5,
-                "reviews": 5,
+                "rating": 4.6,
+                "reviews": 6,
                 "link": "https://www.ratemyprofessors.com/professor/2498075"
             },
             "lab": {},
@@ -25183,14 +27410,14 @@ abbott = {
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
-                "intensive": "Intensive course: includes one day on campus Aug 11, then a trip to Riviere du Diable, Mont TremblantAug 15-18. Must be comfortable in deep water and able to swim 50 meters (with or without alifejacket). Students must provide appropriate outdoor clothing and camping gear"
+                "intensive": "Intensive course scheduled before classes begin - MTWRF, August 14 - 18 from 9:00-4:00,  includes one day on campus Aug 11, then a trip to Riviere du Diable, Mont TremblantAug 15-18. Must be comfortable in deep water and able to swim 50 meters (with or without a lifejacket). Students must provide appropriate outdoor clothing and camping gear"
             },
             "schedule": {
-                "M": "0900-1500",
-                "T": "0900-1500",
-                "W": "0900-1500",
-                "R": "0900-1500",
-                "F": "0900-1500"
+                "M": "",
+                "T": "",
+                "W": "",
+                "R": "1800-1900",
+                "F": ""
             }
         },
         {
@@ -25198,8 +27425,8 @@ abbott = {
             "teacher": "Sasan Ghinani",
             "title": "Canoe Camping",
             "rating": {
-                "rating": 4.5,
-                "reviews": 5,
+                "rating": 4.6,
+                "reviews": 6,
                 "link": "https://www.ratemyprofessors.com/professor/2498075"
             },
             "lab": {},
@@ -25223,8 +27450,8 @@ abbott = {
             "teacher": "Sasan Ghinani",
             "title": "Outdoor Activities and Camping",
             "rating": {
-                "rating": 4.5,
-                "reviews": 5,
+                "rating": 4.6,
+                "reviews": 6,
                 "link": "https://www.ratemyprofessors.com/professor/2498075"
             },
             "lab": {},
@@ -25424,7 +27651,7 @@ abbott = {
             "title": "Dance Activities",
             "rating": {
                 "rating": 5,
-                "reviews": 20,
+                "reviews": 21,
                 "link": "https://www.ratemyprofessors.com/professor/2498166"
             },
             "lab": {},
@@ -25549,7 +27776,7 @@ abbott = {
             "title": "Volleyball",
             "rating": {
                 "rating": 5,
-                "reviews": 10,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498742"
             },
             "lab": {},
@@ -25574,7 +27801,7 @@ abbott = {
             "title": "Volleyball",
             "rating": {
                 "rating": 5,
-                "reviews": 10,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2498742"
             },
             "lab": {},
@@ -25599,16 +27826,16 @@ abbott = {
             "title": "Nature Identification and Fitness",
             "rating": {
                 "rating": 5,
-                "reviews": 12,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2510425"
             },
             "lab": {},
             "details": {
-                "fee": "",
+                "fee": 75,
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
-                "intensive": ""
+                "intensive": "Intensive Course: 10 classes plus 2 half-day weekend field trips (Sept 17 and Dec 3). The course has 2 main focuses: 1) Nature identification - primarily birds, but also mammals, butterflies, trees, mushrooms etc and 2) Personal fitness. Good outdoor clothing essential. Cost $70."
             },
             "schedule": {
                 "M": "",
@@ -25621,27 +27848,26 @@ abbott = {
         {
             "section": "00022",
             "teacher": "Andrew Plimer",
-            "title": "Urban Outdoor Activities - Intensive August Class",
+            "title": "Urban Outdoor Activities -Aug.14-18 MTWRF 9:00-4:00",
             "rating": {
                 "rating": 5,
-                "reviews": 12,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2510425"
             },
             "lab": {},
             "details": {
-                "fee": "",
+                "fee": 10,
                 "restrict": "",
                 "exclusive": "",
                 "blended": "",
-                "intensive": "Intensive course August 14-18, then one class Sept 30th."
+                "intensive": "Intensive course scheduled before classes begin - MTWRF, August 14 - 18 from 9:00-4:00, One class Sept 30. Canoeing, stand-up paddleboard, nature identification at the Morgan Arboretum, and personal fitness in the weight room."
             },
             "schedule": {
-                "M": "0830-1430",
-                "T": "0830-1430",
-                "W": "0830-1430",
-                "R": "0830-1430",
-                "F": "0830-1430",
-                "S": "0830-1430"
+                "M": "",
+                "T": "",
+                "W": "",
+                "R": "1800-1900",
+                "F": ""
             }
         },
         {
@@ -25734,7 +27960,7 @@ abbott = {
             "title": "Run Your First 5 or 10K Road Race",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/1858720"
             },
             "lab": {},
@@ -25759,7 +27985,7 @@ abbott = {
             "title": "Squash",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/1858720"
             },
             "lab": {},
@@ -25784,7 +28010,7 @@ abbott = {
             "title": "Tennis",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 19,
                 "link": "https://www.ratemyprofessors.com/professor/1858720"
             },
             "lab": {},
@@ -25809,7 +28035,7 @@ abbott = {
             "title": "Individual Fitness Program",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 20,
                 "link": "https://www.ratemyprofessors.com/professor/2498399"
             },
             "lab": {},
@@ -25834,7 +28060,7 @@ abbott = {
             "title": "Training for Athletic Performance",
             "rating": {
                 "rating": 5,
-                "reviews": 17,
+                "reviews": 20,
                 "link": "https://www.ratemyprofessors.com/professor/2498399"
             },
             "lab": {},
@@ -25859,7 +28085,7 @@ abbott = {
             "title": "Martial Arts",
             "rating": {
                 "rating": 4.5,
-                "reviews": 17,
+                "reviews": 18,
                 "link": "https://www.ratemyprofessors.com/professor/1858709"
             },
             "lab": {},
@@ -25909,19 +28135,19 @@ abbott = {
             "domain": 1,
             "ensemble": 2,
             "courseCode": "202-DBF-AB",
-            "title": "Everyday Chemistry",
+            "title": "Everyday Chemistry (Blended)",
             "section": "00001",
             "teacher": "Jana Simandl",
             "rating": {
                 "rating": 5,
-                "reviews": 13,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498082"
             },
             "details": {
                 "fee": "",
                 "restrict": "Science",
                 "exclusive": "",
-                "blended": "",
+                "blended": true,
                 "intensive": ""
             },
             "schedule": {
@@ -25941,7 +28167,7 @@ abbott = {
             "teacher": "Jana Simandl",
             "rating": {
                 "rating": 5,
-                "reviews": 13,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498082"
             },
             "details": {
@@ -26044,19 +28270,19 @@ abbott = {
             "domain": 1,
             "ensemble": 1,
             "courseCode": "120-DAD-AB",
-            "title": "Health and Nutrition in the Digital Age",
+            "title": "Health and Nutrition in the Digital Age (Blended)",
             "section": "00001",
             "teacher": "Manijeh Ali",
             "rating": {
-                "rating": 1.7,
-                "reviews": 14,
+                "rating": 1.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1388769"
             },
             "details": {
                 "fee": "",
                 "restrict": "",
                 "exclusive": "",
-                "blended": "",
+                "blended": true,
                 "intensive": ""
             },
             "schedule": {
@@ -26071,19 +28297,19 @@ abbott = {
             "domain": 1,
             "ensemble": 1,
             "courseCode": "120-DAD-AB",
-            "title": "Health and Nutrition in the Digital Age",
+            "title": "Health and Nutrition in the Digital Age (Blended)",
             "section": "00002",
             "teacher": "Manijeh Ali",
             "rating": {
-                "rating": 1.7,
-                "reviews": 14,
+                "rating": 1.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1388769"
             },
             "details": {
                 "fee": "",
                 "restrict": "",
                 "exclusive": "",
-                "blended": "",
+                "blended": true,
                 "intensive": ""
             },
             "schedule": {
@@ -26129,8 +28355,8 @@ abbott = {
             "section": "00001",
             "teacher": "Manijeh Ali",
             "rating": {
-                "rating": 1.7,
-                "reviews": 14,
+                "rating": 1.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1388769"
             },
             "details": {
@@ -26156,8 +28382,8 @@ abbott = {
             "section": "00002",
             "teacher": "Manijeh Ali",
             "rating": {
-                "rating": 1.7,
-                "reviews": 14,
+                "rating": 1.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1388769"
             },
             "details": {
@@ -26237,8 +28463,8 @@ abbott = {
             "section": "00001",
             "teacher": "Nicola Hope",
             "rating": {
-                "rating": 4.6,
-                "reviews": 12,
+                "rating": 4.8,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2643306"
             },
             "details": {
@@ -26393,7 +28619,7 @@ abbott = {
             "courseCode": "420-DAB-AB",
             "title": "Enhancing Computer Knowledge",
             "section": "00001",
-            "teacher": "To Be Announced",
+            "teacher": "Preeti D'Melo",
             "rating": "DNE",
             "details": {
                 "fee": "",
@@ -26404,10 +28630,10 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "",
-                "W": "1300-1430",
-                "R": "",
-                "F": "1300-1430"
+                "T": "1000-1130",
+                "W": "",
+                "R": "1000-1130",
+                "F": ""
             }
         },
         {
@@ -26426,10 +28652,10 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "1430-1600",
-                "T": "",
-                "W": "1430-1600",
-                "R": "",
+                "M": "",
+                "T": "1600-1730",
+                "W": "",
+                "R": "1600-1730",
                 "F": ""
             }
         },
@@ -26441,8 +28667,8 @@ abbott = {
             "section": "00001",
             "teacher": "Derrick Chung",
             "rating": {
-                "rating": 4.1,
-                "reviews": 13,
+                "rating": 4.3,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/1864947"
             },
             "details": {
@@ -26489,8 +28715,12 @@ abbott = {
             "courseCode": "420-DBF-03",
             "title": "Introduction to programming in C",
             "section": "00002",
-            "teacher": "To Be Announced",
-            "rating": "DNE",
+            "teacher": "Claudiu Scotnotis",
+            "rating": {
+                "rating": 3.8,
+                "reviews": 5,
+                "link": "https://www.ratemyprofessors.com/professor/2497883"
+            },
             "details": {
                 "fee": "",
                 "restrict": "Computer Science",
@@ -26499,10 +28729,10 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "1130-1300",
-                "T": "",
-                "W": "1130-1300",
-                "R": "",
+                "M": "",
+                "T": "1430-1600",
+                "W": "",
+                "R": "1430-1600",
                 "F": ""
             }
         },
@@ -26545,10 +28775,10 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "",
-                "T": "1000-1130",
-                "W": "",
-                "R": "1000-1130",
+                "M": "1600-1730",
+                "T": "",
+                "W": "1600-1730",
+                "R": "",
                 "F": ""
             }
         },
@@ -26558,7 +28788,7 @@ abbott = {
             "courseCode": "530-DAB-03",
             "title": "Film Studies: Genre",
             "section": "00001",
-            "teacher": "To Be Announced",
+            "teacher": "Mitchell Stafiej",
             "rating": "DNE",
             "details": {
                 "fee": "",
@@ -26571,33 +28801,6 @@ abbott = {
                 "M": "1130-1430",
                 "T": "",
                 "W": "",
-                "R": "",
-                "F": ""
-            }
-        },
-        {
-            "domain": 4,
-            "ensemble": 2,
-            "courseCode": "530-DBA-03",
-            "title": "Animation Filmmaking in Stop Motion - An Introduction",
-            "section": "00001",
-            "teacher": "Daniel Schorr",
-            "rating": {
-                "rating": 1.3,
-                "reviews": 12,
-                "link": "https://www.ratemyprofessors.com/professor/2606778"
-            },
-            "details": {
-                "fee": "",
-                "restrict": "ALC",
-                "exclusive": "",
-                "blended": "",
-                "intensive": ""
-            },
-            "schedule": {
-                "M": "",
-                "T": "",
-                "W": "1430-1730",
                 "R": "",
                 "F": ""
             }
@@ -26637,8 +28840,8 @@ abbott = {
             "section": "00001",
             "teacher": "Clea Notar",
             "rating": {
-                "rating": 4.5,
-                "reviews": 6,
+                "rating": 4.6,
+                "reviews": 7,
                 "link": "https://www.ratemyprofessors.com/professor/2497890"
             },
             "details": {
@@ -26653,6 +28856,33 @@ abbott = {
                 "T": "",
                 "W": "",
                 "R": "0830-1130",
+                "F": ""
+            }
+        },
+        {
+            "domain": 5,
+            "ensemble": 1,
+            "courseCode": "530-DBA-03",
+            "title": "Animation Filmmaking in Stop Motion - An Introduction",
+            "section": "00001",
+            "teacher": "Daniel Schorr",
+            "rating": {
+                "rating": 1.3,
+                "reviews": 12,
+                "link": "https://www.ratemyprofessors.com/professor/2606778"
+            },
+            "details": {
+                "fee": "",
+                "restrict": "ALC",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1430-1730",
+                "R": "",
                 "F": ""
             }
         },
@@ -26857,7 +29087,7 @@ abbott = {
             "teacher": "Julie Gagnon",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "details": {
@@ -26884,7 +29114,7 @@ abbott = {
             "teacher": "Julie Gagnon",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "details": {
@@ -26911,7 +29141,7 @@ abbott = {
             "teacher": "Julie Gagnon",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "details": {
@@ -27053,7 +29283,7 @@ abbott = {
             "teacher": "Julie Gagnon",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "details": {
@@ -27424,11 +29654,11 @@ abbott = {
             "courseCode": "365-CSP-AB",
             "title": "Camping to Save the Planet",
             "section": "00002",
-            "teacher": "Julie Podmore",
+            "teacher": "Jessica Burpee",
             "rating": {
-                "rating": 4.5,
-                "reviews": 8,
-                "link": "https://www.ratemyprofessors.com/professor/2499586"
+                "rating": 3,
+                "reviews": 3,
+                "link": "https://www.ratemyprofessors.com/professor/2499012"
             },
             "details": {
                 "fee": "",
@@ -27477,10 +29707,10 @@ abbott = {
         {
             "section": "00001",
             "teacher": "Jana Simandl",
-            "title": "Everyday Chemistry",
+            "title": "Everyday Chemistry (Blended)",
             "rating": {
                 "rating": 5,
-                "reviews": 13,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498082"
             },
             "lab": {},
@@ -27488,7 +29718,7 @@ abbott = {
                 "fee": "",
                 "restrict": "Science",
                 "exclusive": "",
-                "blended": "",
+                "blended": true,
                 "intensive": ""
             },
             "schedule": {
@@ -27505,7 +29735,7 @@ abbott = {
             "title": "Everyday Chemistry",
             "rating": {
                 "rating": 5,
-                "reviews": 13,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498082"
             },
             "lab": {},
@@ -27608,10 +29838,10 @@ abbott = {
         {
             "section": "00001",
             "teacher": "Manijeh Ali",
-            "title": "Health and Nutrition in the Digital Age",
+            "title": "Health and Nutrition in the Digital Age (Blended)",
             "rating": {
-                "rating": 1.7,
-                "reviews": 14,
+                "rating": 1.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1388769"
             },
             "lab": {},
@@ -27619,7 +29849,7 @@ abbott = {
                 "fee": "",
                 "restrict": "",
                 "exclusive": "",
-                "blended": "",
+                "blended": true,
                 "intensive": ""
             },
             "schedule": {
@@ -27633,10 +29863,10 @@ abbott = {
         {
             "section": "00002",
             "teacher": "Manijeh Ali",
-            "title": "Health and Nutrition in the Digital Age",
+            "title": "Health and Nutrition in the Digital Age (Blended)",
             "rating": {
-                "rating": 1.7,
-                "reviews": 14,
+                "rating": 1.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1388769"
             },
             "lab": {},
@@ -27644,7 +29874,7 @@ abbott = {
                 "fee": "",
                 "restrict": "",
                 "exclusive": "",
-                "blended": "",
+                "blended": true,
                 "intensive": ""
             },
             "schedule": {
@@ -27689,8 +29919,8 @@ abbott = {
             "teacher": "Manijeh Ali",
             "title": "Diet, Weight and Disease",
             "rating": {
-                "rating": 1.7,
-                "reviews": 14,
+                "rating": 1.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1388769"
             },
             "lab": {},
@@ -27714,8 +29944,8 @@ abbott = {
             "teacher": "Manijeh Ali",
             "title": "Diet, Weight and Disease",
             "rating": {
-                "rating": 1.7,
-                "reviews": 14,
+                "rating": 1.8,
+                "reviews": 15,
                 "link": "https://www.ratemyprofessors.com/professor/1388769"
             },
             "lab": {},
@@ -27795,8 +30025,8 @@ abbott = {
             "teacher": "Nicola Hope",
             "title": "Let's Talk Politics",
             "rating": {
-                "rating": 4.6,
-                "reviews": 12,
+                "rating": 4.8,
+                "reviews": 13,
                 "link": "https://www.ratemyprofessors.com/professor/2643306"
             },
             "lab": {},
@@ -27950,7 +30180,7 @@ abbott = {
     "420-DAB-AB": [
         {
             "section": "00001",
-            "teacher": "To Be Announced",
+            "teacher": "Preeti D'Melo",
             "title": "Enhancing Computer Knowledge",
             "rating": "DNE",
             "lab": {},
@@ -27963,10 +30193,10 @@ abbott = {
             },
             "schedule": {
                 "M": "",
-                "T": "",
-                "W": "1300-1430",
-                "R": "",
-                "F": "1300-1430"
+                "T": "1000-1130",
+                "W": "",
+                "R": "1000-1130",
+                "F": ""
             }
         },
         {
@@ -27983,10 +30213,10 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "1430-1600",
-                "T": "",
-                "W": "1430-1600",
-                "R": "",
+                "M": "",
+                "T": "1600-1730",
+                "W": "",
+                "R": "1600-1730",
                 "F": ""
             }
         }
@@ -27997,8 +30227,8 @@ abbott = {
             "teacher": "Derrick Chung",
             "title": "Mathematical Puzzles, Games and Other Diversions",
             "rating": {
-                "rating": 4.1,
-                "reviews": 13,
+                "rating": 4.3,
+                "reviews": 14,
                 "link": "https://www.ratemyprofessors.com/professor/1864947"
             },
             "lab": {},
@@ -28042,9 +30272,13 @@ abbott = {
         },
         {
             "section": "00002",
-            "teacher": "To Be Announced",
+            "teacher": "Claudiu Scotnotis",
             "title": "Introduction to programming in C",
-            "rating": "DNE",
+            "rating": {
+                "rating": 3.8,
+                "reviews": 5,
+                "link": "https://www.ratemyprofessors.com/professor/2497883"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -28054,10 +30288,10 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "1130-1300",
-                "T": "",
-                "W": "1130-1300",
-                "R": "",
+                "M": "",
+                "T": "1430-1600",
+                "W": "",
+                "R": "1430-1600",
                 "F": ""
             }
         }
@@ -28100,10 +30334,10 @@ abbott = {
                 "intensive": ""
             },
             "schedule": {
-                "M": "",
-                "T": "1000-1130",
-                "W": "",
-                "R": "1000-1130",
+                "M": "1600-1730",
+                "T": "",
+                "W": "1600-1730",
+                "R": "",
                 "F": ""
             }
         }
@@ -28111,7 +30345,7 @@ abbott = {
     "530-DAB-03": [
         {
             "section": "00001",
-            "teacher": "To Be Announced",
+            "teacher": "Mitchell Stafiej",
             "title": "Film Studies: Genre",
             "rating": "DNE",
             "lab": {},
@@ -28126,33 +30360,6 @@ abbott = {
                 "M": "1130-1430",
                 "T": "",
                 "W": "",
-                "R": "",
-                "F": ""
-            }
-        }
-    ],
-    "530-DBA-03": [
-        {
-            "section": "00001",
-            "teacher": "Daniel Schorr",
-            "title": "Animation Filmmaking in Stop Motion - An Introduction",
-            "rating": {
-                "rating": 1.3,
-                "reviews": 12,
-                "link": "https://www.ratemyprofessors.com/professor/2606778"
-            },
-            "lab": {},
-            "details": {
-                "fee": "",
-                "restrict": "ALC",
-                "exclusive": "",
-                "blended": "",
-                "intensive": ""
-            },
-            "schedule": {
-                "M": "",
-                "T": "",
-                "W": "1430-1730",
                 "R": "",
                 "F": ""
             }
@@ -28191,8 +30398,8 @@ abbott = {
             "teacher": "Clea Notar",
             "title": "Modern cinema",
             "rating": {
-                "rating": 4.5,
-                "reviews": 6,
+                "rating": 4.6,
+                "reviews": 7,
                 "link": "https://www.ratemyprofessors.com/professor/2497890"
             },
             "lab": {},
@@ -28208,6 +30415,33 @@ abbott = {
                 "T": "",
                 "W": "",
                 "R": "0830-1130",
+                "F": ""
+            }
+        }
+    ],
+    "530-DBA-03": [
+        {
+            "section": "00001",
+            "teacher": "Daniel Schorr",
+            "title": "Animation Filmmaking in Stop Motion - An Introduction",
+            "rating": {
+                "rating": 1.3,
+                "reviews": 12,
+                "link": "https://www.ratemyprofessors.com/professor/2606778"
+            },
+            "lab": {},
+            "details": {
+                "fee": "",
+                "restrict": "ALC",
+                "exclusive": "",
+                "blended": "",
+                "intensive": ""
+            },
+            "schedule": {
+                "M": "",
+                "T": "",
+                "W": "1430-1730",
+                "R": "",
                 "F": ""
             }
         }
@@ -28409,7 +30643,7 @@ abbott = {
             "title": "Spanish I",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "lab": {},
@@ -28434,7 +30668,7 @@ abbott = {
             "title": "Spanish I",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "lab": {},
@@ -28459,7 +30693,7 @@ abbott = {
             "title": "Spanish I",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "lab": {},
@@ -28593,7 +30827,7 @@ abbott = {
             "title": "Spanish III",
             "rating": {
                 "rating": 5,
-                "reviews": 11,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/2498254"
             },
             "lab": {},
@@ -28943,12 +31177,12 @@ abbott = {
         },
         {
             "section": "00002",
-            "teacher": "Julie Podmore",
+            "teacher": "Jessica Burpee",
             "title": "Camping to Save the Planet",
             "rating": {
-                "rating": 4.5,
-                "reviews": 8,
-                "link": "https://www.ratemyprofessors.com/professor/2499586"
+                "rating": 3,
+                "reviews": 3,
+                "link": "https://www.ratemyprofessors.com/professor/2499012"
             },
             "lab": {},
             "details": {
@@ -28995,6 +31229,7 @@ abbott = {
         }
     ]
 }
+
 
 module.exports = function (school) {
     if (school == "JAC") {
