@@ -3134,7 +3134,7 @@ abbott = {
             "title": "Calculus II",
             "rating": {
                 "rating": 1.6,
-                "reviews": 24,
+                "reviews": 25,
                 "link": "https://www.ratemyprofessors.com/professor/1156686"
             },
             "lab": {},
@@ -3159,7 +3159,7 @@ abbott = {
             "title": "Calculus II",
             "rating": {
                 "rating": 1.6,
-                "reviews": 24,
+                "reviews": 25,
                 "link": "https://www.ratemyprofessors.com/professor/1156686"
             },
             "lab": {},
@@ -3234,7 +3234,11 @@ abbott = {
             "section": "00002",
             "teacher": "Faranak Mokhtarian",
             "title": "Linear Algebra I",
-            "rating": "DNE",
+            "rating": {
+                "rating": 4.6,
+                "reviews": 6,
+                "link": "https://www.ratemyprofessors.com/professor/2766799"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -3255,7 +3259,11 @@ abbott = {
             "section": "00003",
             "teacher": "Faranak Mokhtarian",
             "title": "Linear Algebra I",
-            "rating": "DNE",
+            "rating": {
+                "rating": 4.6,
+                "reviews": 6,
+                "link": "https://www.ratemyprofessors.com/professor/2766799"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -6270,7 +6278,11 @@ abbott = {
             "section": "00008",
             "teacher": "Edward Lyon",
             "title": "Introduction to Business",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 6,
+                "link": "https://www.ratemyprofessors.com/professor/2755852"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -6477,7 +6489,11 @@ abbott = {
             "section": "00008",
             "teacher": "Edward Lyon",
             "title": "Introduction to Business",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 6,
+                "link": "https://www.ratemyprofessors.com/professor/2755852"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -8766,7 +8782,7 @@ abbott = {
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "",
+                "exclusive": "Honours Commerce and Social with Math",
                 "blended": "",
                 "intensive": ""
             },
@@ -9237,7 +9253,7 @@ abbott = {
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "",
+                "exclusive": "Honours Commerce and Social with Math",
                 "blended": "",
                 "intensive": ""
             },
@@ -13149,7 +13165,11 @@ abbott = {
             "section": "00014",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 16,
+                "link": "https://www.ratemyprofessors.com/professor/2747522"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -13170,7 +13190,11 @@ abbott = {
             "section": "00015",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 16,
+                "link": "https://www.ratemyprofessors.com/professor/2747522"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -13191,7 +13215,11 @@ abbott = {
             "section": "00016",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 16,
+                "link": "https://www.ratemyprofessors.com/professor/2747522"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -13539,7 +13567,11 @@ abbott = {
             "section": "00014",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 16,
+                "link": "https://www.ratemyprofessors.com/professor/2747522"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -13560,7 +13592,11 @@ abbott = {
             "section": "00015",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 16,
+                "link": "https://www.ratemyprofessors.com/professor/2747522"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -13581,7 +13617,11 @@ abbott = {
             "section": "00016",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 16,
+                "link": "https://www.ratemyprofessors.com/professor/2747522"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -15517,8 +15557,8 @@ abbott = {
             "teacher": "Violaine Ares",
             "title": "Science and Pseudoscience",
             "rating": {
-                "rating": 2.9,
-                "reviews": 11,
+                "rating": 2.8,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/855697"
             },
             "lab": {},
@@ -15542,8 +15582,8 @@ abbott = {
             "teacher": "Violaine Ares",
             "title": "Science and Pseudoscience",
             "rating": {
-                "rating": 2.9,
-                "reviews": 11,
+                "rating": 2.8,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/855697"
             },
             "lab": {},
@@ -15567,8 +15607,8 @@ abbott = {
             "teacher": "Violaine Ares",
             "title": "Science and Pseudoscience",
             "rating": {
-                "rating": 2.9,
-                "reviews": 11,
+                "rating": 2.8,
+                "reviews": 12,
                 "link": "https://www.ratemyprofessors.com/professor/855697"
             },
             "lab": {},
@@ -15643,7 +15683,7 @@ abbott = {
             "title": "Sex and Sexuality",
             "rating": {
                 "rating": 4.6,
-                "reviews": 22,
+                "reviews": 23,
                 "link": "https://www.ratemyprofessors.com/professor/2497908"
             },
             "lab": {},
@@ -15668,7 +15708,7 @@ abbott = {
             "title": "Sex and Sexuality",
             "rating": {
                 "rating": 4.6,
-                "reviews": 22,
+                "reviews": 23,
                 "link": "https://www.ratemyprofessors.com/professor/2497908"
             },
             "lab": {},
@@ -16855,7 +16895,7 @@ abbott = {
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "",
+                "exclusive": "Liberal Arts",
                 "blended": "",
                 "intensive": ""
             },
@@ -17198,7 +17238,7 @@ abbott = {
             "title": "English in Many Tongues",
             "rating": {
                 "rating": 1.9,
-                "reviews": 8,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2623608"
             },
             "lab": {},
@@ -17222,9 +17262,9 @@ abbott = {
             "teacher": "Kirsty Campbell",
             "title": "Introduction to Literature",
             "rating": {
-                "rating": 3,
-                "reviews": 2,
-                "link": "https://www.ratemyprofessors.com/professor/2503109"
+                "rating": 3.9,
+                "reviews": 10,
+                "link": "https://www.ratemyprofessors.com/professor/2498177"
             },
             "lab": {},
             "details": {
@@ -17247,9 +17287,9 @@ abbott = {
             "teacher": "Kirsty Campbell",
             "title": "Introduction to Literature",
             "rating": {
-                "rating": 3,
-                "reviews": 2,
-                "link": "https://www.ratemyprofessors.com/professor/2503109"
+                "rating": 3.9,
+                "reviews": 10,
+                "link": "https://www.ratemyprofessors.com/professor/2498177"
             },
             "lab": {},
             "details": {
@@ -18019,7 +18059,7 @@ abbott = {
             "title": "Theatre Workshop",
             "rating": {
                 "rating": 5,
-                "reviews": 16,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498208"
             },
             "lab": {},
@@ -18078,7 +18118,7 @@ abbott = {
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "",
+                "exclusive": "Liberal Arts",
                 "blended": "",
                 "intensive": ""
             },
@@ -18346,7 +18386,7 @@ abbott = {
             "title": "Pacifist Literature",
             "rating": {
                 "rating": 1.9,
-                "reviews": 8,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2623608"
             },
             "lab": {},
@@ -18371,7 +18411,7 @@ abbott = {
             "title": "Pacifist Literature",
             "rating": {
                 "rating": 1.9,
-                "reviews": 8,
+                "reviews": 9,
                 "link": "https://www.ratemyprofessors.com/professor/2623608"
             },
             "lab": {},
@@ -19092,7 +19132,7 @@ abbott = {
             "title": "Universe of the Arts 1",
             "rating": {
                 "rating": 4.5,
-                "reviews": 15,
+                "reviews": 16,
                 "link": "https://www.ratemyprofessors.com/professor/2499320"
             },
             "lab": {},
@@ -21268,7 +21308,7 @@ abbott = {
             "title": "Remedial Activities for Secondary V Mathematics: Technical a",
             "rating": {
                 "rating": 1.6,
-                "reviews": 24,
+                "reviews": 25,
                 "link": "https://www.ratemyprofessors.com/professor/1156686"
             },
             "lab": {},
@@ -21350,7 +21390,7 @@ abbott = {
             "details": {
                 "fee": "",
                 "restrict": "",
-                "exclusive": "Pathways to Police Technology",
+                "exclusive": "",
                 "blended": "",
                 "intensive": ""
             },
@@ -21486,7 +21526,11 @@ abbott = {
             "section": "00001",
             "teacher": "Nicole Hoop",
             "title": "Preparation for College English",
-            "rating": "DNE",
+            "rating": {
+                "rating": 4.8,
+                "reviews": 3,
+                "link": "https://www.ratemyprofessors.com/professor/2769573"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -21822,7 +21866,7 @@ abbott = {
             "title": "The Poetics of Popular Music",
             "rating": {
                 "rating": 5,
-                "reviews": 16,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498208"
             },
             "lab": {},
@@ -21872,7 +21916,7 @@ abbott = {
             "title": "The Poetics of Popular Music",
             "rating": {
                 "rating": 5,
-                "reviews": 16,
+                "reviews": 17,
                 "link": "https://www.ratemyprofessors.com/professor/2498208"
             },
             "lab": {},
@@ -22247,7 +22291,11 @@ abbott = {
             "section": "00002",
             "teacher": "Nicole Hoop",
             "title": "Persuasive Writing",
-            "rating": "DNE",
+            "rating": {
+                "rating": 4.8,
+                "reviews": 3,
+                "link": "https://www.ratemyprofessors.com/professor/2769573"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -22485,7 +22533,11 @@ abbott = {
             "section": "00012",
             "teacher": "Nicole Hoop",
             "title": "Persuasive Writing",
-            "rating": "DNE",
+            "rating": {
+                "rating": 4.8,
+                "reviews": 3,
+                "link": "https://www.ratemyprofessors.com/professor/2769573"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -22960,11 +23012,7 @@ abbott = {
             "section": "00003",
             "teacher": "Isabelle Ste-Marie",
             "title": "Litt\u00e9rature et univers narratif",
-            "rating": {
-                "rating": 5,
-                "reviews": 1,
-                "link": "https://www.ratemyprofessors.com/professor/2754991"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -23227,11 +23275,7 @@ abbott = {
             "section": "00014",
             "teacher": "Isabelle Ste-Marie",
             "title": "Litt\u00e9rature et univers narratif",
-            "rating": {
-                "rating": 5,
-                "reviews": 1,
-                "link": "https://www.ratemyprofessors.com/professor/2754991"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -23298,11 +23342,7 @@ abbott = {
             "section": "00017",
             "teacher": "Isabelle Ste-Marie",
             "title": "Litt\u00e9rature et univers narratif",
-            "rating": {
-                "rating": 5,
-                "reviews": 1,
-                "link": "https://www.ratemyprofessors.com/professor/2754991"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -23577,11 +23617,7 @@ abbott = {
             "section": "00005",
             "teacher": "Isabelle Ste-Marie",
             "title": "Fran\u00e7ais niveau 2",
-            "rating": {
-                "rating": 5,
-                "reviews": 1,
-                "link": "https://www.ratemyprofessors.com/professor/2754991"
-            },
+            "rating": "DNE",
             "lab": {},
             "details": {
                 "fee": "",
@@ -24740,7 +24776,7 @@ abbott = {
             "title": "Ethical Issues in Racism",
             "rating": {
                 "rating": 4.6,
-                "reviews": 22,
+                "reviews": 23,
                 "link": "https://www.ratemyprofessors.com/professor/2497908"
             },
             "lab": {},
@@ -24765,7 +24801,7 @@ abbott = {
             "title": "Ethical Issues in Racism",
             "rating": {
                 "rating": 4.6,
-                "reviews": 22,
+                "reviews": 23,
                 "link": "https://www.ratemyprofessors.com/professor/2497908"
             },
             "lab": {},
@@ -31229,7 +31265,6 @@ abbott = {
         }
     ]
 }
-
 
 module.exports = function (school) {
     if (school == "JAC") {
