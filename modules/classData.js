@@ -836,9 +836,13 @@ abbott = {
     "101-DDJ-AB": [
         {
             "section": "00060",
-            "teacher": "",
-            "title": "Intersession - January 2 - 15Intersession Levesque, Christian",
-            "rating": "DNE",
+            "teacher": "Christian Levesque",
+            "title": "Intersession - January 2 - 15",
+            "rating": {
+                "rating": 4.8,
+                "reviews": 10,
+                "link": "https://www.ratemyprofessors.com/professor/2502235"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -4274,11 +4278,7 @@ abbott = {
             "section": "00005",
             "teacher": "Omar Melhem",
             "title": "Electricity and Magnetism",
-            "rating": {
-                "rating": 3.4,
-                "reviews": 13,
-                "link": "https://www.ratemyprofessors.com/professor/2773125"
-            },
+            "rating": "DNE",
             "lab": {
                 "teacher": "Kieran Hackett",
                 "rating": {
@@ -4306,18 +4306,10 @@ abbott = {
             "section": "00006",
             "teacher": "Omar Melhem",
             "title": "Electricity and Magnetism",
-            "rating": {
-                "rating": 3.4,
-                "reviews": 13,
-                "link": "https://www.ratemyprofessors.com/professor/2773125"
-            },
+            "rating": "DNE",
             "lab": {
                 "teacher": "Omar Melhem",
-                "rating": {
-                    "rating": 3.4,
-                    "reviews": 13,
-                    "link": "https://www.ratemyprofessors.com/professor/2773125"
-                }
+                "rating": "DNE"
             },
             "details": {
                 "fee": "",
@@ -4338,18 +4330,10 @@ abbott = {
             "section": "00007",
             "teacher": "Omar Melhem",
             "title": "Electricity and Magnetism",
-            "rating": {
-                "rating": 3.4,
-                "reviews": 13,
-                "link": "https://www.ratemyprofessors.com/professor/2773125"
-            },
+            "rating": "DNE",
             "lab": {
                 "teacher": "Omar Melhem",
-                "rating": {
-                    "rating": 3.4,
-                    "reviews": 13,
-                    "link": "https://www.ratemyprofessors.com/professor/2773125"
-                }
+                "rating": "DNE"
             },
             "details": {
                 "fee": "",
@@ -4370,18 +4354,10 @@ abbott = {
             "section": "00008",
             "teacher": "Omar Melhem",
             "title": "Electricity and Magnetism",
-            "rating": {
-                "rating": 3.4,
-                "reviews": 13,
-                "link": "https://www.ratemyprofessors.com/professor/2773125"
-            },
+            "rating": "DNE",
             "lab": {
                 "teacher": "Omar Melhem",
-                "rating": {
-                    "rating": 3.4,
-                    "reviews": 13,
-                    "link": "https://www.ratemyprofessors.com/professor/2773125"
-                }
+                "rating": "DNE"
             },
             "details": {
                 "fee": "",
@@ -4850,9 +4826,13 @@ abbott = {
     "203-ENV-AB": [
         {
             "section": "00001",
-            "teacher": "",
+            "teacher": "Kieran Hackett",
             "title": "Environmental Sciences: The Energy Dilemma",
-            "rating": "DNE",
+            "rating": {
+                "rating": 3,
+                "reviews": 24,
+                "link": "https://www.ratemyprofessors.com/professor/2498435"
+            },
             "lab": {
                 "teacher": "Kieran Hackett",
                 "rating": {
@@ -4878,9 +4858,13 @@ abbott = {
         },
         {
             "section": "00002",
-            "teacher": "",
+            "teacher": "Kieran Hackett",
             "title": "Environmental Sciences: The Energy Dilemma",
-            "rating": "DNE",
+            "rating": {
+                "rating": 3,
+                "reviews": 24,
+                "link": "https://www.ratemyprofessors.com/professor/2498435"
+            },
             "lab": {
                 "teacher": "Kieran Hackett",
                 "rating": {
@@ -5221,11 +5205,7 @@ abbott = {
             },
             "lab": {
                 "teacher": "Omar Melhem",
-                "rating": {
-                    "rating": 3.4,
-                    "reviews": 13,
-                    "link": "https://www.ratemyprofessors.com/professor/2773125"
-                }
+                "rating": "DNE"
             },
             "details": {
                 "fee": "",
@@ -5253,11 +5233,7 @@ abbott = {
             },
             "lab": {
                 "teacher": "Omar Melhem",
-                "rating": {
-                    "rating": 3.4,
-                    "reviews": 13,
-                    "link": "https://www.ratemyprofessors.com/professor/2773125"
-                }
+                "rating": "DNE"
             },
             "details": {
                 "fee": "",
@@ -11812,7 +11788,11 @@ abbott = {
             "section": "00010",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 19,
+                "link": "https://www.ratemyprofessors.com/professor/2747522"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -11833,7 +11813,11 @@ abbott = {
             "section": "00011",
             "teacher": "Jacqueline Aubie",
             "title": "Introduction to Psychology",
-            "rating": "DNE",
+            "rating": {
+                "rating": 5,
+                "reviews": 19,
+                "link": "https://www.ratemyprofessors.com/professor/2747522"
+            },
             "lab": {},
             "details": {
                 "fee": "",
@@ -11897,9 +11881,9 @@ abbott = {
             "teacher": "Vanessa Harrar",
             "title": "Introduction to Psychology",
             "rating": {
-                "rating": 3.6,
-                "reviews": 7,
-                "link": "https://www.ratemyprofessors.com/professor/2721802"
+                "rating": 0,
+                "reviews": 0,
+                "link": "https://www.ratemyprofessors.com/professor/2752296"
             },
             "lab": {},
             "details": {
@@ -11922,9 +11906,9 @@ abbott = {
             "teacher": "Vanessa Harrar",
             "title": "Introduction to Psychology",
             "rating": {
-                "rating": 3.6,
-                "reviews": 7,
-                "link": "https://www.ratemyprofessors.com/professor/2721802"
+                "rating": 0,
+                "reviews": 0,
+                "link": "https://www.ratemyprofessors.com/professor/2752296"
             },
             "lab": {},
             "details": {
@@ -18185,9 +18169,9 @@ abbott = {
             "teacher": "Derek Maisonville",
             "title": "Career Explorations",
             "rating": {
-                "rating": 4.8,
+                "rating": 4,
                 "reviews": 5,
-                "link": "https://www.ratemyprofessors.com/professor/1860735"
+                "link": "https://www.ratemyprofessors.com/professor/2497898"
             },
             "lab": {},
             "details": {
@@ -22281,9 +22265,9 @@ abbott = {
             "teacher": "Derek Maisonville",
             "title": "Complex Emergencies",
             "rating": {
-                "rating": 4.8,
+                "rating": 4,
                 "reviews": 5,
-                "link": "https://www.ratemyprofessors.com/professor/1860735"
+                "link": "https://www.ratemyprofessors.com/professor/2497898"
             },
             "lab": {},
             "details": {
